@@ -1,0 +1,501 @@
+promotion_key,promotion_id,promotion_name,promotion_type,promotion_target_segment,promotion_channel,promotion_start_date,promotion_end_date,discount_value,discount_type,max_discount_amount,effective_date,expiry_date,is_current,promotion_year
+1,810f6490-d58b-4ebb-b79a-f34665172a37,Harness One-To-One Mindshare,Anniversary,Students,Carrillo-Dixon,2023-05-23,2023-07-19,23.8,percentage,1644.6,2023-05-23,2023-07-19,True,2023
+2,834e6024-9582-406b-bd8b-e6a5c4f31b3a,Mesh Interactive E-Commerce,Anniversary,Students,Davis PLC,2024-12-11,2025-01-28,64.21,percentage,953.27,2024-12-11,2025-01-28,False,2024
+3,4af46f38-ffd4-4689-a612-60535d6a8d25,Streamline Next-Generation E-Commerce,Loyalty,Business,Hall-Soto,2023-10-23,2023-11-26,31.33,percentage,1066.54,2023-10-23,2023-11-26,True,2023
+4,aaff70ec-b7c1-4b28-9b75-330212f0028d,Target Distributed Portals,Flash Sale,Families,"Taylor, Martin and Dickerson",2023-07-19,2023-10-12,55.23,percentage,1548.58,2023-07-19,2023-10-12,True,2023
+5,566e143d-8df6-428d-ad01-aa5c722c2fa4,Incubate Magnetic Methodologies,Anniversary,Students,Church-Long,2024-04-07,2024-04-19,26.77,fixed,1757.67,2024-04-07,2024-04-19,True,2024
+6,a364c98d-47bd-4a81-a196-24f3776355bb,Deliver Distributed Vortals,Flash Sale,Business,"Jackson, Smith and Morgan",2024-03-07,2024-04-09,55.82,percentage,184.54,2024-03-07,2024-04-09,True,2024
+7,1cc44068-84e5-4e6b-8e17-bcb43c617349,Engineer Open-Source Users,Loyalty,Students,Church-Long,2024-12-15,2025-02-09,69.29,fixed,1499.54,2024-12-15,2025-02-09,False,2024
+8,4bd13332-a249-45ca-960e-99e6f19ee450,E-Enable Collaborative Convergence,Anniversary,Students,"Taylor, Martin and Dickerson",2024-09-26,2024-12-03,33.25,percentage,291.79,2024-09-26,2024-12-03,True,2024
+9,9bfc91ee-5cff-467b-8609-7f859fd88b6a,Productize Rich Eyeballs,Anniversary,Students,"Stevens, Bishop and Rose",2024-07-22,2024-09-29,43.57,fixed,640.63,2024-07-22,2024-09-29,False,2024
+10,101453c3-42de-491e-9bf4-0edcb7eed025,Engage Strategic Web Services,Seasonal,All,Dalton Group,2024-04-24,2024-06-30,51.57,percentage,164.84,2024-04-24,2024-06-30,False,2024
+11,aafae58a-ad96-404f-86b3-6bb30fc928a5,Unleash B2B E-Tailers,Anniversary,Families,"Casey, Bailey and Martinez",2024-01-11,2024-03-27,11.59,fixed,417.6,2024-01-11,2024-03-27,True,2024
+12,2af1f84f-5904-4bb4-a889-8bae7488053e,Scale Intuitive Deliverables,Flash Sale,Business,"Barrera, White and Miller",2024-11-08,2025-01-17,21.89,fixed,1344.93,2024-11-08,2025-01-17,False,2024
+13,16c6ab96-59df-4c45-9ecb-6531db3bb0a6,Enhance Next-Generation Portals,Anniversary,All,Hall-Soto,2024-12-22,2025-02-24,22.53,fixed,1672.42,2024-12-22,2025-02-24,True,2024
+14,bc4e0d0b-da0c-41ee-bdcc-4e40484d1cd2,Facilitate Interactive Markets,Loyalty,Students,Roberts-Meza,2024-08-22,2024-10-03,46.45,fixed,1650.72,2024-08-22,2024-10-03,False,2024
+15,6ddcc386-9361-4f89-bed9-590c0d3d3b18,Implement Strategic E-Services,Seasonal,Families,Conrad LLC,2023-12-08,2023-12-19,30.7,fixed,934.46,2023-12-08,2023-12-19,True,2023
+16,410f3449-1905-4a37-9c3f-dbbd4ff905a6,Brand Vertical Platforms,Anniversary,All,"Martinez, Austin and Bowman",2024-07-24,2024-10-12,55.28,fixed,287.35,2024-07-24,2024-10-12,True,2024
+17,74a5d8fc-afa0-4db0-b49f-db3f4fe33fa0,E-Enable Integrated Content,Seasonal,Business,Mason and Sons,2024-08-20,2024-10-09,44.79,fixed,612.05,2024-08-20,2024-10-09,True,2024
+18,c0e5ad45-4a46-4918-b771-a0b2b4ba9ef0,Benchmark Distributed Paradigms,Loyalty,Families,"Ward, Wright and Myers",2023-11-16,2023-11-30,7.89,percentage,1910.87,2023-11-16,2023-11-30,False,2023
+19,8ddf9126-d653-4927-94a3-d7e0eb7fcb6e,Implement Killer Models,Seasonal,Business,Harvey-Hamilton,2023-07-24,2023-09-15,49.64,fixed,1362.7,2023-07-24,2023-09-15,False,2023
+20,5873f9dc-c134-4594-a3ff-48419019eca8,Transition B2C Channels,Flash Sale,Families,"Barrera, White and Miller",2023-08-04,2023-09-23,36.58,percentage,137.6,2023-08-04,2023-09-23,True,2023
+21,e7982f6c-3fed-4202-9da1-d9a7bb8c921d,Embrace Cross-Media Technologies,Loyalty,All,Johnson-Choi,2024-04-18,2024-05-30,62.86,fixed,764.32,2024-04-18,2024-05-30,False,2024
+22,33e59f57-ea9f-4958-9f17-8f5117ecd9e6,Redefine Innovative Roi,Loyalty,Families,Bush Group,2023-06-22,2023-08-03,56.39,percentage,830.3,2023-06-22,2023-08-03,True,2023
+23,15aead9b-3551-4bb1-9ee5-e45c9dd2aeb8,Visualize Vertical Info-Mediaries,Seasonal,Business,Brown-Bowen,2024-12-06,2025-03-01,42.74,percentage,1861.99,2024-12-06,2025-03-01,False,2024
+24,e28ef44e-dacb-4d0a-96b8-09ee59d5d690,Re-Intermediate Holistic Systems,Seasonal,Families,Roberts-Meza,2025-05-07,2025-06-30,40.65,percentage,1411.26,2025-05-07,2025-06-30,True,2025
+25,f9c61bb7-507d-4597-a138-c52b5910d12c,Grow Robust Users,Anniversary,Students,Lopez PLC,2024-07-19,2024-07-31,42.72,percentage,785.86,2024-07-19,2024-07-31,True,2024
+26,b40cd343-4a51-4ffc-bf7d-dbd23d340e52,Expedite Plug-And-Play E-Business,Loyalty,Families,"Stevens, Bishop and Rose",2023-08-18,2023-09-27,46.68,percentage,869.78,2023-08-18,2023-09-27,True,2023
+27,fd12d594-d6b6-43aa-ab52-fd5697637b2c,Monetize Granular Markets,Seasonal,All,Pruitt and Sons,2025-05-03,2025-07-15,50.96,fixed,534.97,2025-05-03,2025-07-15,True,2025
+28,e0e178ac-fba4-4793-8972-b9fe9258c74d,Optimize Granular Platforms,Anniversary,Students,Russell Group,2025-04-29,2025-06-15,7.47,fixed,1894.17,2025-04-29,2025-06-15,True,2025
+29,0af78cba-a3c2-4461-b013-59d92af0ff47,Implement Real-Time Info-Mediaries,Loyalty,Students,"Martinez, Austin and Bowman",2023-06-16,2023-08-04,60.39,percentage,1533.35,2023-06-16,2023-08-04,True,2023
+30,9875395d-d560-404f-806c-92336d9319d7,Maximize Plug-And-Play Content,Anniversary,Business,"Davis, Larson and Clark",2024-01-24,2024-04-07,6.71,percentage,1383.94,2024-01-24,2024-04-07,True,2024
+31,e70c9296-2073-4720-889a-2df1171e28bb,Engage Visionary Communities,Anniversary,Students,Davis PLC,2024-10-19,2024-11-30,49.0,fixed,758.94,2024-10-19,2024-11-30,False,2024
+32,0d353a44-ca6a-4a18-b9f5-025000d15a00,Monetize Customized E-Business,Loyalty,Students,Carrillo-Dixon,2024-09-03,2024-09-22,59.06,fixed,483.47,2024-09-03,2024-09-22,True,2024
+33,295ecf21-2655-4575-b253-f2ad054043fe,Reinvent Out-Of-The-Box Mindshare,Seasonal,Students,Dalton Group,2024-02-06,2024-03-13,55.93,percentage,946.92,2024-02-06,2024-03-13,True,2024
+34,9186761b-e997-4606-adc3-6ea125ae004d,Repurpose Efficient Mindshare,Loyalty,Students,"Taylor, Martin and Dickerson",2025-04-11,2025-06-27,25.35,fixed,357.18,2025-04-11,2025-06-27,False,2025
+35,f6c43b32-ccaa-4614-9de9-5501f6e118bc,Strategize Compelling Users,Flash Sale,Families,"Martinez, Austin and Bowman",2024-09-10,2024-10-25,68.12,fixed,732.61,2024-09-10,2024-10-25,False,2024
+36,92cb9056-59d9-4904-b682-5774d7356c8a,Drive Virtual Eyeballs,Anniversary,All,"Rice, Gay and Cruz",2024-08-27,2024-10-18,35.92,fixed,1533.37,2024-08-27,2024-10-18,False,2024
+37,8b8bff0c-0bb3-4fb3-8c75-1685ddedf511,E-Enable B2B Vortals,Anniversary,Students,Shepherd Ltd,2023-11-29,2024-01-10,33.68,percentage,1794.28,2023-11-29,2024-01-10,False,2023
+38,b3dd55f0-0bdf-4f39-93ae-884de83bc77f,Deliver Real-Time Content,Flash Sale,Students,Pruitt and Sons,2023-10-04,2023-10-26,20.74,percentage,1446.66,2023-10-04,2023-10-26,False,2023
+39,b5568440-2e1f-4eea-8453-437c7bc4ddbf,Redefine Scalable Technologies,Flash Sale,Business,Shepherd Ltd,2024-08-19,2024-10-14,11.66,fixed,422.38,2024-08-19,2024-10-14,True,2024
+40,d51668ea-4e27-4527-9ca1-8c2d676e3dbf,Disintermediate End-To-End Supply-Chains,Loyalty,Families,"Rice, Gay and Cruz",2024-03-27,2024-04-23,59.87,percentage,306.84,2024-03-27,2024-04-23,False,2024
+41,8a5b87a8-4eb7-4eba-af3b-68b66271cc98,Orchestrate Next-Generation Synergies,Loyalty,Families,"Ward, Wright and Myers",2023-07-08,2023-08-18,12.46,fixed,1289.57,2023-07-08,2023-08-18,False,2023
+42,4a2a9033-dcbc-4ed0-8b4d-2ac0355acfd5,Strategize Leading-Edge Web-Readiness,Flash Sale,Students,Hamilton-Todd,2024-01-02,2024-02-05,46.26,percentage,892.83,2024-01-02,2024-02-05,False,2024
+43,a07f4c77-8dea-455b-9323-4b44dc6e354e,Harness Real-Time Roi,Flash Sale,All,Arellano-Davis,2024-04-27,2024-06-09,43.18,fixed,329.58,2024-04-27,2024-06-09,True,2024
+44,3e287321-d2f0-4555-b241-0e04dbfe4ffa,Scale Proactive E-Tailers,Flash Sale,Students,"Cohen, Lester and Greene",2025-01-15,2025-01-27,33.62,percentage,927.22,2025-01-15,2025-01-27,True,2025
+45,f438a745-ec50-40bf-b83c-e03af40cd20e,Enhance Transparent Content,Flash Sale,All,Harris-Rodriguez,2024-01-15,2024-03-16,56.76,percentage,1228.59,2024-01-15,2024-03-16,False,2024
+46,6c83fbdb-0412-46b3-849a-d43fdf4ff898,Facilitate Best-Of-Breed Vortals,Anniversary,Business,Shepherd Ltd,2025-04-25,2025-07-08,26.05,fixed,148.34,2025-04-25,2025-07-08,True,2025
+47,7f2b7a80-2efb-491e-95de-8bf469273c7d,Expedite Front-End Applications,Seasonal,All,Church-Long,2024-12-16,2025-01-06,44.82,fixed,1128.47,2024-12-16,2025-01-06,False,2024
+48,c9493f3a-5763-493d-bb24-821a7fb109b3,E-Enable Frictionless Initiatives,Loyalty,All,Lewis LLC,2023-11-17,2023-12-02,53.5,percentage,1968.49,2023-11-17,2023-12-02,False,2023
+49,f981f921-a7ac-4fed-abbc-6b2929881f9a,E-Enable Interactive Networks,Loyalty,All,"Potter, Reed and Jacobs",2023-11-18,2024-01-23,17.55,percentage,960.55,2023-11-18,2024-01-23,True,2023
+50,06983756-72f3-4bbb-9b61-51370c133679,Drive Real-Time Communities,Loyalty,Students,"Casey, Bailey and Martinez",2024-02-05,2024-03-31,56.91,fixed,739.39,2024-02-05,2024-03-31,True,2024
+51,46622cb5-3c05-4411-9ea1-123f9198c7ff,Expedite Virtual E-Markets,Flash Sale,Business,Martin-Park,2024-02-27,2024-05-24,20.55,fixed,1952.63,2024-02-27,2024-05-24,False,2024
+52,3e7cc26f-b5aa-407a-849a-530a68e8a7e5,Utilize Magnetic Eyeballs,Anniversary,Business,"Hill, Nichols and Williams",2024-04-29,2024-06-24,47.82,fixed,1077.77,2024-04-29,2024-06-24,True,2024
+53,1814ed5e-d471-448a-80f1-d0e2b949d8df,Repurpose Sticky E-Commerce,Anniversary,Students,Smith-Freeman,2023-07-25,2023-10-13,7.89,percentage,706.39,2023-07-25,2023-10-13,False,2023
+54,4b0dc52e-2b65-4826-b3d3-c0c50029c251,Architect Extensible Schemas,Flash Sale,Students,"Taylor, Martin and Dickerson",2023-09-15,2023-11-28,23.92,fixed,1803.56,2023-09-15,2023-11-28,False,2023
+55,7f75259a-7789-4413-85b3-ded037fe801f,Harness Collaborative Web-Readiness,Flash Sale,Families,"Stevens, Bishop and Rose",2024-03-16,2024-06-07,26.29,fixed,494.67,2024-03-16,2024-06-07,True,2024
+56,0fb129d5-1736-4317-b396-6675de195249,Iterate Global Portals,Anniversary,Students,Allen Group,2024-08-23,2024-10-04,16.76,percentage,1981.25,2024-08-23,2024-10-04,False,2024
+57,ff6536d4-5e88-4a47-968e-7d7d32646f88,Monetize Synergistic Relationships,Flash Sale,Families,Conrad LLC,2023-10-02,2023-11-10,27.2,percentage,437.16,2023-10-02,2023-11-10,False,2023
+58,2b446eda-b396-4661-af75-06a60f9a5139,Mesh Dynamic Partnerships,Loyalty,Students,Chan-Ponce,2024-02-27,2024-04-07,34.84,percentage,1397.25,2024-02-27,2024-04-07,True,2024
+59,8ba7648f-f33b-4303-b2e8-070bd6586a18,Empower Robust Experiences,Seasonal,Families,Brown-Bowen,2023-12-14,2024-02-04,60.83,fixed,1048.34,2023-12-14,2024-02-04,False,2023
+60,71980f31-6141-4ea0-b14d-205379d1ed18,Re-Contextualize Mission-Critical Action-Items,Flash Sale,Students,Johnson-Choi,2023-11-21,2024-01-30,13.38,fixed,1041.58,2023-11-21,2024-01-30,True,2023
+61,9f13e9df-4928-468b-8900-adeb0f36e91f,Mesh Leading-Edge Portals,Flash Sale,Students,"Davis, Larson and Clark",2023-11-03,2023-11-19,44.42,percentage,1480.67,2023-11-03,2023-11-19,False,2023
+62,74d3b394-9b9b-4901-9c16-17bde5475510,Synthesize Customized Synergies,Seasonal,All,Arellano-Davis,2024-09-23,2024-11-22,33.59,percentage,1204.81,2024-09-23,2024-11-22,True,2024
+63,13dbe15b-9a19-4b07-8383-54ccbceb903e,Mesh World-Class Platforms,Seasonal,Students,Fernandez LLC,2024-02-27,2024-05-05,28.09,percentage,757.0,2024-02-27,2024-05-05,True,2024
+64,e01e64fd-bbcc-4090-9808-43c6acd2fbe0,Transition Granular Interfaces,Flash Sale,Families,Mason and Sons,2025-03-16,2025-04-06,9.49,fixed,1860.02,2025-03-16,2025-04-06,True,2025
+65,76e530c9-a224-4f82-8eea-1a5bebc704d5,Strategize Open-Source Systems,Flash Sale,Business,Russell Group,2023-11-29,2024-01-08,19.95,fixed,1810.6,2023-11-29,2024-01-08,False,2023
+66,516e5206-275e-4a8e-bbca-ab58b796a83e,Re-Contextualize Front-End Paradigms,Flash Sale,Families,Russell Group,2025-04-12,2025-06-11,48.87,percentage,799.46,2025-04-12,2025-06-11,True,2025
+67,66c2a852-4d9a-4edd-ac32-f44cac0e75ce,Reinvent Scalable Technologies,Flash Sale,Business,Lopez PLC,2025-02-01,2025-04-23,13.37,percentage,937.16,2025-02-01,2025-04-23,True,2025
+68,628d3a8f-93c3-4c1b-af4f-43df135677ef,Innovate Turn-Key E-Tailers,Loyalty,Business,Smith-Freeman,2023-07-07,2023-08-20,30.1,fixed,1872.43,2023-07-07,2023-08-20,True,2023
+69,50bd966d-5fae-479a-b453-70dea91ee23e,Redefine Enterprise Web Services,Seasonal,Families,Martin-Park,2024-11-26,2025-02-01,9.7,percentage,372.57,2024-11-26,2025-02-01,False,2024
+70,d9764d01-3a06-4325-93e2-0c89cb597e80,Engage Scalable Vortals,Flash Sale,Families,"Cohen, Lester and Greene",2023-10-18,2023-12-26,69.77,fixed,524.76,2023-10-18,2023-12-26,False,2023
+71,85fbbbab-16c5-45d3-994a-e934b7d312ad,Aggregate Ubiquitous Paradigms,Flash Sale,All,Ramos LLC,2023-08-08,2023-09-29,65.74,fixed,1034.64,2023-08-08,2023-09-29,True,2023
+72,cb3e270b-5349-4a3e-87f9-95853a527006,Iterate Cross-Media Info-Mediaries,Seasonal,Students,Henderson and Sons,2024-06-06,2024-08-01,43.09,percentage,400.75,2024-06-06,2024-08-01,True,2024
+73,f1bfaf47-7574-47be-bf4c-04d4e76ee575,Embrace Viral Action-Items,Anniversary,All,Gray Inc,2025-01-01,2025-01-18,64.33,fixed,1670.99,2025-01-01,2025-01-18,False,2025
+74,ef454dd3-57ea-4f86-bd0a-8e6609f47032,Re-Intermediate Cross-Media Niches,Seasonal,Families,Brown-Bowen,2024-09-19,2024-10-19,12.36,percentage,1087.86,2024-09-19,2024-10-19,True,2024
+75,9eac882d-2e96-41e7-bda6-36ebf5afa4d1,Seize Dot-Com Vortals,Loyalty,Families,Dalton Group,2024-07-15,2024-08-13,43.82,fixed,1726.78,2024-07-15,2024-08-13,False,2024
+76,297e10b6-3684-4c56-8962-bfd01218520a,Strategize Out-Of-The-Box Deliverables,Anniversary,All,Lewis LLC,2025-02-24,2025-04-10,42.37,percentage,194.77,2025-02-24,2025-04-10,True,2025
+77,e167861b-3999-4b0d-9d72-f9a1f4c460a1,Harness Extensible Mindshare,Loyalty,Students,Bush Group,2023-08-17,2023-08-28,28.25,fixed,1682.99,2023-08-17,2023-08-28,True,2023
+78,30f75ef4-9723-4a8d-b8b9-2ed88a6deb54,Harness Sticky Methodologies,Anniversary,Families,"Martinez, Austin and Bowman",2024-10-14,2025-01-01,10.33,fixed,1483.81,2024-10-14,2025-01-01,True,2024
+79,dc715ef9-050d-4587-8c84-604b07e66fe0,Monetize Robust E-Markets,Seasonal,Families,Shepherd Ltd,2024-12-01,2024-12-28,13.57,fixed,1192.16,2024-12-01,2024-12-28,False,2024
+80,5e8e05f5-1c31-42d5-a117-325cf4046898,Repurpose User-Centric Metrics,Anniversary,Students,Hall-Soto,2025-03-23,2025-05-09,13.12,fixed,1517.67,2025-03-23,2025-05-09,True,2025
+81,f1460dfa-57a5-42dc-bea6-6c321b64cf35,Brand User-Centric Synergies,Anniversary,Students,"Davis, Larson and Clark",2024-11-01,2024-12-14,15.96,percentage,1044.87,2024-11-01,2024-12-14,False,2024
+82,3e59f73a-89fa-4f37-bdc9-569435f9bcf0,Syndicate Out-Of-The-Box Portals,Flash Sale,Business,"Jackson, Smith and Morgan",2023-05-26,2023-06-07,62.3,fixed,1025.09,2023-05-26,2023-06-07,False,2023
+83,a23854d3-057b-4897-8a02-6ad630cc54b8,Utilize E-Business Convergence,Seasonal,Business,"Taylor, Martin and Dickerson",2023-06-06,2023-08-13,62.63,fixed,1101.24,2023-06-06,2023-08-13,False,2023
+84,bc891ccb-4616-4473-b7f4-b61899bfeea5,Deploy Value-Added Interfaces,Anniversary,Business,"Ward, Wright and Myers",2024-09-29,2024-10-21,51.82,percentage,763.87,2024-09-29,2024-10-21,True,2024
+85,0fe20b5b-16eb-46c8-812f-1d0dc3863b42,Innovate Intuitive Systems,Seasonal,Students,Lopez PLC,2024-12-29,2025-01-30,27.76,fixed,266.95,2024-12-29,2025-01-30,True,2024
+86,aca2afb2-338c-447b-a344-e99e01682b8a,Scale Revolutionary Channels,Anniversary,Families,"Cohen, Lester and Greene",2024-10-08,2024-10-27,30.07,fixed,1888.62,2024-10-08,2024-10-27,True,2024
+87,5c5e96e9-9adf-4547-9266-b0a05228a09f,Redefine Intuitive E-Business,Seasonal,Families,Fernandez LLC,2024-11-14,2025-01-08,48.94,fixed,1865.92,2024-11-14,2025-01-08,True,2024
+88,51aef7bb-d1b0-42a0-9556-3e52a3ac38c9,Leverage Intuitive Technologies,Seasonal,All,"Potter, Reed and Jacobs",2024-08-25,2024-10-18,33.84,percentage,447.67,2024-08-25,2024-10-18,False,2024
+89,1977b1f1-439b-4497-93f5-98cbf6786680,Transition Innovative Channels,Seasonal,Families,Beck and Sons,2024-11-05,2025-01-28,27.53,fixed,1644.05,2024-11-05,2025-01-28,True,2024
+90,68cf8733-3a97-498c-b224-57c3c3d62e99,Seize Transparent Markets,Anniversary,All,Gray Inc,2023-11-18,2023-12-30,11.68,percentage,1468.5,2023-11-18,2023-12-30,True,2023
+91,8c28d2d4-bfe8-409f-9dec-68f4cc60012a,Integrate Rich E-Services,Flash Sale,Families,Ramos LLC,2023-07-16,2023-09-06,60.04,percentage,1037.01,2023-07-16,2023-09-06,True,2023
+92,903cbce8-a42c-4746-939f-40216ce78b95,Cultivate Collaborative Partnerships,Seasonal,Families,Johnson-Choi,2023-07-19,2023-09-29,18.22,percentage,1758.44,2023-07-19,2023-09-29,True,2023
+93,4faa9ded-07b1-46ac-b2ab-df576eda8082,Scale Impactful Relationships,Loyalty,Students,"Stevens, Bishop and Rose",2024-09-27,2024-10-31,5.52,percentage,1978.68,2024-09-27,2024-10-31,False,2024
+94,02caa8e3-415e-47db-9fe7-9024f9cc5438,Deliver Efficient Info-Mediaries,Loyalty,Students,"Christian, Smith and Coffey",2025-02-06,2025-05-05,15.94,percentage,1704.39,2025-02-06,2025-05-05,True,2025
+95,dc5992a2-705a-4883-a28a-fcbd3f6fc95b,Generate Real-Time Content,Flash Sale,Business,Roberts-Meza,2024-04-05,2024-06-25,5.7,percentage,734.2,2024-04-05,2024-06-25,False,2024
+96,555708b9-22eb-43fe-8f79-5f92610d7a13,Optimize Turn-Key Infrastructures,Loyalty,Students,Shaw-Thornton,2025-04-30,2025-07-12,60.36,fixed,1911.98,2025-04-30,2025-07-12,True,2025
+97,579456f6-d449-4544-857a-417c8aea4e78,Extend Extensible Eyeballs,Anniversary,All,Martin-Park,2023-08-29,2023-11-14,69.11,percentage,1833.81,2023-08-29,2023-11-14,True,2023
+98,fae3023c-6451-4fba-b7ef-0d81e7219d7f,Matrix Collaborative E-Commerce,Seasonal,Business,Kelley and Sons,2024-06-07,2024-08-02,26.79,percentage,399.35,2024-06-07,2024-08-02,True,2024
+99,2fe37dd2-4175-4791-83fb-2b722ecd7388,Grow E-Business Technologies,Seasonal,Families,"Martinez, Austin and Bowman",2024-07-30,2024-09-02,46.7,percentage,725.21,2024-07-30,2024-09-02,False,2024
+100,ef751a3a-3361-4f1a-8a7d-4ce69e559df8,Productize Web-Enabled Applications,Seasonal,Families,Shepherd Ltd,2024-01-24,2024-02-22,24.76,fixed,1039.42,2024-01-24,2024-02-22,True,2024
+101,8464ed45-992d-48af-a0ba-8a06661155e5,Strategize Collaborative Solutions,Seasonal,Students,"Ayala, Davis and Roberts",2024-07-18,2024-09-19,5.01,percentage,1153.71,2024-07-18,2024-09-19,True,2024
+102,fe51176d-ec3e-4fb9-b1a0-81f6625306ac,Morph One-To-One Methodologies,Flash Sale,Business,Carrillo-Dixon,2023-11-05,2024-01-19,10.72,fixed,739.05,2023-11-05,2024-01-19,True,2023
+103,9cee47f7-5b2c-47f0-a867-8b9186f36609,Aggregate Web-Enabled Info-Mediaries,Loyalty,Students,"Ayala, Davis and Roberts",2023-06-24,2023-07-16,60.96,fixed,1873.25,2023-06-24,2023-07-16,False,2023
+104,d2447e36-00c1-4de1-93b7-66f85dabbdbd,Architect 24/7 Paradigms,Loyalty,Students,Long Inc,2023-09-01,2023-10-01,45.46,percentage,1301.26,2023-09-01,2023-10-01,False,2023
+105,57c79755-74f1-4c66-9033-610f103b43d6,Optimize Back-End E-Business,Anniversary,Business,"Ayala, Davis and Roberts",2023-12-18,2024-02-01,50.77,fixed,1683.91,2023-12-18,2024-02-01,True,2023
+106,4444bd9a-2fa2-4e60-8597-ac96ea2fc64e,Redefine Interactive Technologies,Flash Sale,Students,"Barrera, White and Miller",2024-10-03,2024-12-30,7.85,fixed,601.3,2024-10-03,2024-12-30,True,2024
+107,7992ef23-e222-4df4-8b3e-eb816f45e7f7,Target Clicks-And-Mortar Experiences,Anniversary,All,Gray Inc,2025-04-15,2025-06-05,26.38,fixed,855.29,2025-04-15,2025-06-05,True,2025
+108,af7e3fd1-e0e9-48cf-911f-c84408552389,Optimize Web-Enabled Platforms,Seasonal,All,Ramos LLC,2024-06-28,2024-07-18,19.98,fixed,1075.0,2024-06-28,2024-07-18,True,2024
+109,13a802bc-2f7f-4968-994b-614ade4f7b89,Synthesize Wireless Supply-Chains,Seasonal,Students,Shepherd Ltd,2025-01-13,2025-01-23,56.54,fixed,581.88,2025-01-13,2025-01-23,True,2025
+110,f468ae5a-5f77-4951-be3e-430f9fe8303a,Revolutionize Innovative Networks,Anniversary,Students,Shepherd Ltd,2024-01-31,2024-04-25,47.19,percentage,1473.28,2024-01-31,2024-04-25,True,2024
+111,e44b6923-a045-441e-accd-9118a5320fd6,Utilize Compelling Users,Seasonal,All,Johnson-Choi,2023-06-08,2023-08-23,22.26,percentage,356.49,2023-06-08,2023-08-23,False,2023
+112,5946ddd8-4d40-4977-89bb-a149e82fedf6,Cultivate World-Class Info-Mediaries,Flash Sale,All,Shepherd Ltd,2025-02-22,2025-05-19,27.03,percentage,211.15,2025-02-22,2025-05-19,True,2025
+113,4e900d37-fb3c-4e51-af8f-3975a8ea4e6e,Empower One-To-One Portals,Seasonal,Families,"Stevens, Bishop and Rose",2024-06-21,2024-07-29,22.93,percentage,538.11,2024-06-21,2024-07-29,True,2024
+114,706a0623-edd6-4e81-8d1d-a9e9a7e1a6ee,Whiteboard Innovative Synergies,Loyalty,Students,"Taylor, Martin and Dickerson",2024-03-24,2024-04-18,58.31,percentage,1606.25,2024-03-24,2024-04-18,False,2024
+115,e1b4cfed-87d7-4cd5-b362-81ec8001f5d4,Scale Ubiquitous Architectures,Seasonal,Families,Lopez PLC,2023-05-25,2023-08-08,8.57,fixed,1743.4,2023-05-25,2023-08-08,False,2023
+116,a3e94868-b487-48f9-8cf2-f9ea4c7c3bdb,Generate Synergistic Communities,Seasonal,All,Harvey-Hamilton,2024-02-06,2024-03-19,67.22,fixed,823.23,2024-02-06,2024-03-19,False,2024
+117,f2a5c9a3-187b-4696-a977-207a11c77c2c,Iterate Strategic Web-Readiness,Loyalty,Students,Martin-Park,2023-12-14,2024-02-09,49.81,fixed,1686.77,2023-12-14,2024-02-09,False,2023
+118,61c492a3-7cf2-4c29-b3f9-ef2080a89c2f,Exploit Rich Metrics,Seasonal,Business,Gray Inc,2023-08-19,2023-09-20,13.33,fixed,426.39,2023-08-19,2023-09-20,True,2023
+119,54c70514-0152-463e-896b-751063874739,Grow Impactful Portals,Flash Sale,Families,Mason and Sons,2023-06-21,2023-07-11,25.26,fixed,1501.34,2023-06-21,2023-07-11,False,2023
+120,e0055d3d-cb34-466c-b663-1ccdcf4503ea,Transform Virtual Paradigms,Loyalty,Families,Martin-Park,2025-02-21,2025-03-20,27.23,fixed,966.17,2025-02-21,2025-03-20,True,2025
+121,dcdc5234-f075-4765-a203-0c034195477e,Extend E-Business Web-Readiness,Anniversary,All,Lewis LLC,2024-06-27,2024-09-23,57.86,percentage,1713.97,2024-06-27,2024-09-23,False,2024
+122,036eb761-6bf3-46fc-8e0f-b6ab24aa51b2,Grow Cross-Media Partnerships,Seasonal,All,Johnson-Choi,2024-03-28,2024-04-27,50.22,fixed,1114.92,2024-03-28,2024-04-27,False,2024
+123,ff55d990-d891-4fd3-adea-a6a61e7cddd2,Exploit Transparent E-Services,Flash Sale,Students,Carrillo-Dixon,2024-10-27,2024-12-04,31.86,fixed,1585.65,2024-10-27,2024-12-04,True,2024
+124,a62c2a8e-aa34-434c-aa60-a4d54643fd5e,Strategize Innovative Schemas,Anniversary,Business,"Potter, Reed and Jacobs",2024-08-07,2024-09-17,14.96,percentage,1924.74,2024-08-07,2024-09-17,True,2024
+125,5f435846-55a9-4455-9b4e-6509d2cac1be,Unleash Innovative Methodologies,Seasonal,Business,"Casey, Bailey and Martinez",2023-06-03,2023-06-28,62.51,percentage,680.17,2023-06-03,2023-06-28,True,2023
+126,a78d1e0e-f05a-4c26-8be5-dfe2baa77755,Whiteboard Sticky Experiences,Anniversary,Families,Fernandez LLC,2023-07-11,2023-07-24,31.79,fixed,592.77,2023-07-11,2023-07-24,False,2023
+127,827cdae5-6a4c-4a59-bcd0-2ad1f13c6c3f,Engage Viral Architectures,Loyalty,Families,"Christian, Smith and Coffey",2024-03-21,2024-04-18,47.26,fixed,312.44,2024-03-21,2024-04-18,True,2024
+128,fedcb71f-85ce-4318-ad03-b640e9c01002,Synergize Frictionless Technologies,Flash Sale,Students,Henderson and Sons,2023-08-02,2023-10-05,20.31,fixed,105.49,2023-08-02,2023-10-05,False,2023
+129,99bfbfaf-6e29-4cfc-b8b2-baa919652e23,Facilitate Out-Of-The-Box Action-Items,Loyalty,Families,"Cohen, Lester and Greene",2023-11-24,2024-02-07,45.61,percentage,1979.65,2023-11-24,2024-02-07,False,2023
+130,2aacfa64-aa97-4fa5-b178-9fe001ba3ed1,Re-Intermediate Virtual Channels,Seasonal,Students,Arellano-Davis,2024-10-27,2024-12-02,29.61,percentage,521.59,2024-10-27,2024-12-02,True,2024
+131,6cb64471-f397-4c4d-abe4-542dc29ddd45,Synergize Interactive Technologies,Loyalty,Business,Beck and Sons,2023-12-02,2024-01-30,52.96,percentage,433.68,2023-12-02,2024-01-30,True,2023
+132,f8668cc3-5b48-45ce-a727-81f27f45b8df,Synergize Frictionless Niches,Loyalty,Families,Hall-Soto,2025-05-07,2025-05-19,32.85,percentage,1440.93,2025-05-07,2025-05-19,True,2025
+133,0bd05688-76db-4bea-842e-5d7ef9abad83,Incentivize Killer E-Markets,Flash Sale,Students,Smith-Freeman,2025-03-08,2025-03-31,41.5,percentage,1484.25,2025-03-08,2025-03-31,True,2025
+134,7c762b1d-cbaa-4e6b-ad8b-71f02fcc1bc7,Envisioneer Holistic Metrics,Anniversary,All,Shepherd Ltd,2025-02-16,2025-04-04,69.76,percentage,606.99,2025-02-16,2025-04-04,False,2025
+135,8354a8ce-6428-4ffb-89ed-c5db571c8180,Redefine Real-Time Relationships,Seasonal,All,Martin-Park,2024-03-12,2024-05-11,30.95,fixed,1547.64,2024-03-12,2024-05-11,True,2024
+136,ce38f3ed-2fe8-4db8-aaca-581cbbd12958,Architect Strategic Channels,Flash Sale,All,"Jackson, Smith and Morgan",2025-04-13,2025-06-04,9.64,percentage,788.07,2025-04-13,2025-06-04,False,2025
+137,024e0aac-6734-483f-8954-229aa04a874d,Monetize Distributed Synergies,Anniversary,Students,Harris-Rodriguez,2024-08-30,2024-09-11,61.93,fixed,815.39,2024-08-30,2024-09-11,True,2024
+138,88c4b7de-7397-4c1e-b08a-26051c49fd33,Synergize Proactive Solutions,Seasonal,Business,Brown-Bowen,2024-06-18,2024-09-04,48.82,percentage,264.86,2024-06-18,2024-09-04,False,2024
+139,e7795cba-d039-4ad8-9ed7-5aedcef15fba,Mesh 24/7 Channels,Flash Sale,Students,Lewis LLC,2024-02-26,2024-05-15,31.93,percentage,1945.43,2024-02-26,2024-05-15,False,2024
+140,2df13c31-b4a1-4040-8243-8c8d788795f6,Disintermediate Efficient Infrastructures,Seasonal,Business,Lopez PLC,2025-01-21,2025-02-01,21.92,fixed,826.42,2025-01-21,2025-02-01,False,2025
+141,b1b747e4-ab0c-45d1-901d-dc4d61130ad4,Envisioneer Global Architectures,Loyalty,Families,"Ayala, Davis and Roberts",2023-08-31,2023-11-19,53.22,fixed,739.52,2023-08-31,2023-11-19,False,2023
+142,521896bb-ad19-42ff-a2ff-d8b8e61ed1d2,Engineer Cutting-Edge Synergies,Anniversary,Students,Lopez PLC,2024-02-25,2024-03-14,56.37,percentage,1796.26,2024-02-25,2024-03-14,True,2024
+143,953cf59e-6f65-4a42-a343-fc90d518b29d,Optimize Clicks-And-Mortar Action-Items,Seasonal,Students,Arellano-Davis,2024-05-15,2024-06-24,11.86,percentage,883.37,2024-05-15,2024-06-24,True,2024
+144,d0c01c7b-fec8-4439-b1ff-435098fa8165,Engineer Enterprise Niches,Seasonal,All,Beck and Sons,2025-03-13,2025-04-15,26.97,percentage,211.55,2025-03-13,2025-04-15,True,2025
+145,20834ae9-f8f1-47d0-95fc-582b0eca2158,Matrix Robust E-Business,Anniversary,Families,Long Inc,2024-03-17,2024-04-14,30.94,fixed,1939.41,2024-03-17,2024-04-14,True,2024
+146,9359f7ff-2c61-4369-80bb-74990af7b808,Incubate Clicks-And-Mortar Action-Items,Flash Sale,All,"Christian, Smith and Coffey",2023-05-31,2023-07-16,19.2,percentage,1602.11,2023-05-31,2023-07-16,True,2023
+147,48436037-7bb9-48e4-91cc-d4962dcfea3a,Evolve Innovative E-Services,Flash Sale,Business,Smith-Freeman,2024-02-07,2024-04-06,19.07,fixed,1912.18,2024-02-07,2024-04-06,False,2024
+148,1939a8ed-5208-4265-9159-f7b1faa15c42,Enhance Proactive Platforms,Anniversary,Families,Carrillo-Dixon,2024-12-17,2025-01-21,24.46,percentage,1649.83,2024-12-17,2025-01-21,True,2024
+149,494389e1-1b35-4963-9fe1-f0c704916f32,Deploy Vertical Initiatives,Loyalty,All,Carrillo-Dixon,2023-09-22,2023-10-15,34.7,percentage,1394.01,2023-09-22,2023-10-15,False,2023
+150,f770e0cd-4217-4b34-a7e5-d49ee90d9eb1,Benchmark Magnetic Bandwidth,Flash Sale,Students,Martin-Park,2023-05-15,2023-05-30,60.78,fixed,1314.63,2023-05-15,2023-05-30,False,2023
+151,d97b766c-debd-4cc3-9d58-e62e7065f4d5,Architect Best-Of-Breed Platforms,Seasonal,Business,Johnson-Choi,2024-12-02,2025-01-02,64.94,percentage,125.67,2024-12-02,2025-01-02,True,2024
+152,ddd389d5-be93-4b2b-aceb-da02729f2b07,Redefine 24/365 Platforms,Loyalty,Students,Lewis LLC,2024-03-16,2024-04-24,61.26,fixed,1901.63,2024-03-16,2024-04-24,True,2024
+153,ea4efacd-b5d1-42d0-a87e-4e026163125c,Brand Customized Methodologies,Seasonal,Students,"Jackson, Smith and Morgan",2024-01-14,2024-03-10,10.82,fixed,1885.12,2024-01-14,2024-03-10,False,2024
+154,9e1c9381-97b9-413b-8b94-9132a0e5181a,Benchmark Viral E-Tailers,Anniversary,Families,Ayers and Sons,2025-01-08,2025-01-29,32.88,percentage,827.31,2025-01-08,2025-01-29,True,2025
+155,982bdba9-f2e2-45cb-9f1f-cc9050d02534,Deliver E-Business Niches,Loyalty,Business,Brown-Bowen,2024-03-23,2024-05-06,56.3,fixed,193.68,2024-03-23,2024-05-06,True,2024
+156,6937a0c5-c651-44b1-bb4d-5422bcc79d02,Iterate Turn-Key Initiatives,Seasonal,Families,Mckay-Dixon,2023-07-05,2023-07-21,63.15,fixed,1601.64,2023-07-05,2023-07-21,False,2023
+157,91faf16a-d211-4f19-a05c-72d295cd211c,Benchmark Cutting-Edge Supply-Chains,Anniversary,Business,"Stevens, Bishop and Rose",2023-10-19,2023-10-29,50.76,fixed,261.37,2023-10-19,2023-10-29,False,2023
+158,e69f0102-d8b0-4357-a6db-110719554b07,Engage Virtual E-Tailers,Flash Sale,Families,"Rice, Gay and Cruz",2024-09-28,2024-10-10,46.13,percentage,284.43,2024-09-28,2024-10-10,True,2024
+159,07d9a5d1-5c79-41de-9073-c305c401bc1c,Target 24/7 Web-Readiness,Anniversary,All,Church-Long,2024-06-02,2024-08-05,31.8,fixed,428.96,2024-06-02,2024-08-05,True,2024
+160,a1586965-68f6-4ff6-9b94-a138e2c003b0,Revolutionize Efficient Relationships,Seasonal,Business,Arellano-Davis,2023-06-02,2023-07-15,9.84,percentage,1181.61,2023-06-02,2023-07-15,True,2023
+161,66ac3662-6b7a-4101-aafd-fed50f9d9189,Leverage Transparent Mindshare,Flash Sale,Families,"Stevens, Bishop and Rose",2025-02-02,2025-02-24,32.69,fixed,837.28,2025-02-02,2025-02-24,False,2025
+162,6e6b5a47-fd31-4ed9-8d6e-9bfc47230899,Deliver Bleeding-Edge Convergence,Anniversary,Families,"Freeman, Myers and Thompson",2025-02-16,2025-02-27,44.43,percentage,1530.44,2025-02-16,2025-02-27,False,2025
+163,a954b6da-8e10-4796-9329-3b4e3d123bed,Optimize Frictionless Models,Flash Sale,All,Martin-Park,2024-12-10,2024-12-27,24.63,percentage,257.68,2024-12-10,2024-12-27,True,2024
+164,8f6dabe2-80d2-45b9-8a48-06fdd7257820,Aggregate Clicks-And-Mortar Systems,Anniversary,Business,Allen Group,2025-02-07,2025-02-26,7.33,fixed,1785.87,2025-02-07,2025-02-26,True,2025
+165,d82c9cdb-e379-43f7-a3f8-3abf624f825d,Cultivate Scalable Users,Seasonal,Students,"Stevens, Bishop and Rose",2024-07-06,2024-09-10,34.18,fixed,115.26,2024-07-06,2024-09-10,True,2024
+166,a0fc9c6d-97c3-4070-a78c-8afb8deb2450,Empower Next-Generation Paradigms,Anniversary,Families,Hamilton-Todd,2024-03-20,2024-05-25,11.73,percentage,1630.41,2024-03-20,2024-05-25,True,2024
+167,9bb25432-da6b-48c1-a89c-7c916768b32b,Synthesize Cross-Media Niches,Flash Sale,Business,Church-Long,2023-12-31,2024-03-28,28.02,fixed,465.03,2023-12-31,2024-03-28,False,2023
+168,a771a1d8-d62e-4677-9b74-d6cd85718d5a,Revolutionize Proactive Roi,Seasonal,Students,"Christian, Smith and Coffey",2025-02-28,2025-05-17,44.28,percentage,1711.9,2025-02-28,2025-05-17,True,2025
+169,30a826e4-abea-4c46-a41d-8f854aed5b1f,Generate Efficient Applications,Flash Sale,Business,Harris-Rodriguez,2025-02-01,2025-03-08,56.68,fixed,785.41,2025-02-01,2025-03-08,False,2025
+170,42256403-ba37-4afc-82af-5667d9922ec4,Extend Bleeding-Edge Architectures,Seasonal,Business,Allen Group,2024-03-12,2024-05-13,24.8,percentage,1193.67,2024-03-12,2024-05-13,True,2024
+171,574b423f-ebf2-4080-b01c-5c6f578023d9,Reinvent Cross-Media Solutions,Anniversary,Families,Arellano-Davis,2024-06-04,2024-08-04,14.31,percentage,1786.01,2024-06-04,2024-08-04,True,2024
+172,1cc33896-eacd-4cde-9cee-1adec9ea9b86,Engineer Sticky Niches,Flash Sale,Families,Shaw-Thornton,2024-12-06,2025-01-21,62.7,fixed,1085.05,2024-12-06,2025-01-21,False,2024
+173,4bce3170-0683-469e-97ff-293c3a760246,Orchestrate Next-Generation Mindshare,Anniversary,Families,"Jackson, Smith and Morgan",2024-09-11,2024-09-24,42.24,fixed,556.16,2024-09-11,2024-09-24,True,2024
+174,f2d30f09-b854-4a3e-b627-042148c20a09,Engage End-To-End Info-Mediaries,Seasonal,All,"Potter, Reed and Jacobs",2024-04-05,2024-06-27,39.66,percentage,1576.85,2024-04-05,2024-06-27,False,2024
+175,002ec486-1235-4386-b77a-1d2b88c5f92c,Morph Cutting-Edge Communities,Loyalty,All,Beck and Sons,2025-04-21,2025-05-05,33.28,percentage,294.53,2025-04-21,2025-05-05,True,2025
+176,ccb53558-fe7f-4f97-8ea7-33e44aa77e67,Embrace E-Business E-Services,Loyalty,Students,"Hill, Nichols and Williams",2024-01-26,2024-03-19,60.9,fixed,1168.45,2024-01-26,2024-03-19,False,2024
+177,41e09ab5-e72b-44ed-86cc-73be39785bd9,Incentivize Out-Of-The-Box Methodologies,Anniversary,Business,"Ward, Wright and Myers",2024-09-24,2024-12-07,44.77,percentage,1876.28,2024-09-24,2024-12-07,True,2024
+178,3222293b-0063-42ed-a5b1-a3957bbda841,Whiteboard B2B Convergence,Anniversary,Students,Mckay-Dixon,2025-04-08,2025-05-30,66.86,fixed,1155.17,2025-04-08,2025-05-30,True,2025
+179,52485597-f01b-43cb-9a0c-3456480d62fa,Synthesize Front-End Roi,Anniversary,Students,Ayers and Sons,2023-07-01,2023-07-25,57.91,percentage,201.04,2023-07-01,2023-07-25,True,2023
+180,6d616b10-21f6-498d-92d1-7bedad578063,Re-Contextualize Holistic Users,Seasonal,All,"Davis, Larson and Clark",2023-09-30,2023-10-17,15.0,fixed,114.88,2023-09-30,2023-10-17,True,2023
+181,b8bbb122-bba8-4dab-b1c9-55d95f6763ed,Iterate Dot-Com Web-Readiness,Loyalty,All,"Martinez, Austin and Bowman",2025-02-24,2025-04-29,20.79,percentage,837.14,2025-02-24,2025-04-29,True,2025
+182,b5292de5-1eb2-4230-b1e4-e6c50d702633,Brand Revolutionary Partnerships,Flash Sale,All,"Cohen, Lester and Greene",2023-07-12,2023-09-20,13.34,fixed,1352.02,2023-07-12,2023-09-20,False,2023
+183,22b47abc-0e90-490a-95f7-8727266a9bb9,Productize B2C Functionalities,Loyalty,All,Carrillo-Dixon,2024-12-31,2025-01-12,61.3,percentage,1163.15,2024-12-31,2025-01-12,True,2024
+184,ae4178a6-f9a0-455b-b3e9-5b2c81c07146,Deploy Innovative Networks,Flash Sale,Students,"Stevens, Bishop and Rose",2024-01-03,2024-02-03,54.59,percentage,1673.09,2024-01-03,2024-02-03,True,2024
+185,208687a7-366f-48a7-88c2-f6cc9c09832d,Cultivate Clicks-And-Mortar Partnerships,Loyalty,Students,Lopez PLC,2023-07-30,2023-08-17,12.26,percentage,1454.51,2023-07-30,2023-08-17,False,2023
+186,2c120088-2743-4cfc-8aca-95f79e0cd65e,Drive Efficient Architectures,Anniversary,Business,Henderson and Sons,2023-09-17,2023-10-15,51.71,fixed,1770.57,2023-09-17,2023-10-15,False,2023
+187,83d403b8-ec6b-4cb3-8810-b42f8ac737a7,Scale Innovative Bandwidth,Anniversary,All,Davis PLC,2023-06-29,2023-08-02,15.75,percentage,1259.08,2023-06-29,2023-08-02,True,2023
+188,957265ee-cfd1-4fb1-af5c-65bbad6e3998,Grow B2C E-Commerce,Loyalty,All,Gray Inc,2025-01-27,2025-02-15,59.06,percentage,348.51,2025-01-27,2025-02-15,True,2025
+189,91f7b2b0-f073-4019-9eeb-d36c64a76421,Drive Enterprise Channels,Loyalty,Students,Roberts-Meza,2023-07-31,2023-09-18,49.89,percentage,1533.17,2023-07-31,2023-09-18,False,2023
+190,ed8dce70-9ec9-4f32-a29a-20ccb9c520e3,Unleash E-Business Platforms,Anniversary,Families,"Barrera, White and Miller",2024-12-02,2025-01-05,57.88,fixed,224.86,2024-12-02,2025-01-05,True,2024
+191,203ad123-666b-4686-8a2d-3ca00fa1e4ec,Enable Seamless Infrastructures,Seasonal,Business,Chan-Ponce,2023-10-18,2024-01-04,66.49,fixed,1993.71,2023-10-18,2024-01-04,True,2023
+192,65a75a00-5321-40f4-b3fc-96226c409562,Leverage Extensible Metrics,Anniversary,All,Beck and Sons,2024-04-05,2024-06-10,60.03,percentage,1561.6,2024-04-05,2024-06-10,False,2024
+193,9d144dc6-1e29-4d43-8f64-c84f1b6b5d0b,Synthesize Granular Content,Loyalty,Students,Chan-Ponce,2024-06-13,2024-09-03,7.67,percentage,1874.22,2024-06-13,2024-09-03,False,2024
+194,b3b6116e-990a-49ab-8bf5-2ca2db473643,Aggregate Bricks-And-Clicks Interfaces,Loyalty,Families,"Stevens, Bishop and Rose",2024-05-16,2024-06-22,30.8,fixed,1268.44,2024-05-16,2024-06-22,True,2024
+195,7bad1be2-6dc4-42d7-86a0-b2679f993e29,Redefine Open-Source E-Business,Flash Sale,Students,Lewis LLC,2025-05-08,2025-08-03,17.66,percentage,719.88,2025-05-08,2025-08-03,False,2025
+196,cce10ef9-1636-497b-8d85-304449b7136e,Extend Distributed Bandwidth,Anniversary,Business,Ayers and Sons,2025-04-05,2025-06-18,44.6,fixed,1356.48,2025-04-05,2025-06-18,False,2025
+197,c92664ec-4c93-4be6-bbd3-faf784811f41,Empower Killer Vortals,Flash Sale,Business,"Potter, Reed and Jacobs",2024-01-03,2024-01-25,31.02,fixed,1196.32,2024-01-03,2024-01-25,False,2024
+198,90e7e76e-7822-4a27-816c-2b4a4ae64646,Utilize Best-Of-Breed Eyeballs,Seasonal,Students,"Stevens, Bishop and Rose",2025-04-03,2025-06-05,36.63,percentage,713.74,2025-04-03,2025-06-05,False,2025
+199,66d9dcdf-cfaa-43b7-bd22-29ee4369694e,Leverage Granular E-Markets,Loyalty,Business,Smith-Freeman,2024-06-07,2024-09-02,42.2,fixed,412.87,2024-06-07,2024-09-02,False,2024
+200,e9995453-ca69-4e7a-8a9e-8ca437eaed40,Synergize 24/7 E-Services,Anniversary,Families,Kelley and Sons,2024-04-09,2024-05-10,30.96,fixed,1016.86,2024-04-09,2024-05-10,True,2024
+201,8b3f1f58-d363-4112-bff9-43497b0bfe76,Implement Vertical Experiences,Flash Sale,Students,Martin-Park,2023-06-10,2023-08-18,29.36,fixed,1375.11,2023-06-10,2023-08-18,True,2023
+202,62fcf88e-6e00-4abd-93ae-95f206b48377,Monetize Impactful Platforms,Loyalty,Business,"Freeman, Myers and Thompson",2025-01-17,2025-02-11,11.79,percentage,1066.42,2025-01-17,2025-02-11,False,2025
+203,d488105a-1649-40c0-a825-5cc61c00e52b,Monetize Real-Time Communities,Anniversary,Business,Lewis LLC,2024-06-02,2024-07-01,6.62,fixed,1643.49,2024-06-02,2024-07-01,True,2024
+204,d8602ff3-513c-46ba-a624-d418beb1493e,Brand One-To-One Web-Readiness,Loyalty,Families,Roberts-Meza,2024-01-14,2024-03-23,52.64,fixed,1672.62,2024-01-14,2024-03-23,False,2024
+205,7ad910dc-6d1f-4248-b719-00050062e0b6,Productize Killer Experiences,Loyalty,Families,Hamilton-Todd,2023-12-12,2024-01-23,28.33,fixed,947.22,2023-12-12,2024-01-23,True,2023
+206,d601a8bb-ec05-4f47-be6a-117f7e55c9a4,Embrace Vertical Mindshare,Seasonal,Business,"Potter, Reed and Jacobs",2025-02-07,2025-03-03,25.57,fixed,1646.7,2025-02-07,2025-03-03,True,2025
+207,3da5bb85-f168-4264-a668-97834e735875,Whiteboard Holistic Niches,Loyalty,Business,"Christian, Smith and Coffey",2023-12-10,2024-03-07,40.54,percentage,673.47,2023-12-10,2024-03-07,False,2023
+208,a4a5383b-6a4c-4949-ad4c-d51a60f81ab3,Monetize Out-Of-The-Box Metrics,Seasonal,All,Pruitt and Sons,2024-06-18,2024-08-24,44.63,percentage,1693.07,2024-06-18,2024-08-24,True,2024
+209,5e330979-ea69-4b96-98d5-40e783735f2d,Cultivate Next-Generation E-Business,Loyalty,Families,"Rice, Gay and Cruz",2024-02-09,2024-02-26,45.8,fixed,210.79,2024-02-09,2024-02-26,False,2024
+210,a1fe079e-1694-4873-99a7-ab12732d9e7d,Monetize Cutting-Edge E-Tailers,Flash Sale,Families,Henderson and Sons,2023-12-08,2023-12-29,32.01,fixed,1655.0,2023-12-08,2023-12-29,False,2023
+211,2c528a2d-b4e2-4aba-abdd-d20a95bbbcd6,Re-Intermediate Interactive Convergence,Loyalty,Business,Roberts-Meza,2023-12-07,2024-02-12,46.43,percentage,1243.39,2023-12-07,2024-02-12,True,2023
+212,4084b26e-cb90-4051-8c43-a6f7137a5943,Extend User-Centric Applications,Anniversary,Students,Ramos LLC,2023-08-27,2023-11-11,65.84,percentage,586.13,2023-08-27,2023-11-11,False,2023
+213,5e5cbeb7-29b4-422f-bf2c-6d1887747048,Scale Compelling Methodologies,Anniversary,Business,Harris-Rodriguez,2024-07-18,2024-08-15,11.26,percentage,1700.91,2024-07-18,2024-08-15,True,2024
+214,67029a56-8ff8-469e-8301-cc40511f33da,Empower Back-End Web Services,Seasonal,All,Lewis LLC,2024-12-12,2025-01-22,44.33,percentage,530.48,2024-12-12,2025-01-22,True,2024
+215,655fd2eb-8f68-4726-97a8-9913daefea3e,Disintermediate Value-Added Web Services,Flash Sale,Students,"Taylor, Martin and Dickerson",2024-07-01,2024-09-11,20.9,fixed,1325.23,2024-07-01,2024-09-11,True,2024
+216,d8b7d844-913f-4120-8f1c-8064e2c496a2,Transform Collaborative Architectures,Seasonal,Business,Beck and Sons,2025-02-21,2025-05-12,36.66,percentage,1942.27,2025-02-21,2025-05-12,True,2025
+217,a52aa063-f167-4461-b47b-acd227c5f7fa,Repurpose Cutting-Edge Relationships,Seasonal,Business,Johnson-Choi,2024-02-10,2024-04-29,29.83,fixed,1291.84,2024-02-10,2024-04-29,False,2024
+218,c10e0f49-0dad-46ea-8e8a-463a394a5e99,Visualize Vertical E-Services,Loyalty,Students,Arellano-Davis,2023-11-13,2024-01-17,51.21,percentage,1389.35,2023-11-13,2024-01-17,False,2023
+219,318939af-8075-4e98-9c3a-9c15acaabb71,Integrate Strategic Channels,Loyalty,All,Mason and Sons,2023-08-15,2023-08-31,45.1,percentage,407.04,2023-08-15,2023-08-31,False,2023
+220,9e73f0da-bb3b-4527-bc37-625eb00ced2b,Optimize Dynamic Paradigms,Loyalty,All,"Christian, Smith and Coffey",2023-06-13,2023-07-30,42.53,fixed,1660.93,2023-06-13,2023-07-30,False,2023
+221,3b7fabf8-4684-4d4b-97d3-c9638d40ecc4,Visualize Bleeding-Edge Info-Mediaries,Anniversary,Students,"Christian, Smith and Coffey",2024-09-27,2024-11-21,64.18,percentage,1779.14,2024-09-27,2024-11-21,False,2024
+222,21a430b8-d908-49a5-840f-73307eecfa89,Extend Cross-Media Partnerships,Anniversary,All,Kelley and Sons,2023-07-04,2023-09-27,13.85,percentage,867.95,2023-07-04,2023-09-27,False,2023
+223,b0f4cfe9-6bf0-40ec-a831-084acbe31424,Maximize Ubiquitous Web-Readiness,Seasonal,Families,Allen Group,2025-04-19,2025-06-27,44.7,percentage,1880.66,2025-04-19,2025-06-27,True,2025
+224,3e329a56-6d1e-49e5-a252-1801d6aafb65,Utilize Bleeding-Edge Initiatives,Anniversary,Families,Hall-Soto,2024-01-08,2024-03-04,26.43,fixed,727.14,2024-01-08,2024-03-04,True,2024
+225,f5e76e1a-fd75-4252-a1e2-b0f37b80f1a1,Leverage Distributed Info-Mediaries,Loyalty,Families,Ramos LLC,2024-04-22,2024-06-11,12.93,percentage,538.9,2024-04-22,2024-06-11,True,2024
+226,cd6bc7d8-5418-4749-b3f2-0223bea87efe,Enable Dynamic Metrics,Flash Sale,Business,"Potter, Reed and Jacobs",2023-09-21,2023-12-06,34.66,percentage,1995.91,2023-09-21,2023-12-06,True,2023
+227,a0d50b0f-2da6-4da0-ab35-660978973e72,E-Enable Wireless Niches,Seasonal,All,"Rice, Gay and Cruz",2024-04-01,2024-06-15,64.85,fixed,768.09,2024-04-01,2024-06-15,False,2024
+228,96e34301-6d59-4933-8eeb-3b0c952609a3,Syndicate Out-Of-The-Box E-Commerce,Anniversary,Families,Beck and Sons,2024-10-05,2024-12-22,28.52,fixed,1812.44,2024-10-05,2024-12-22,False,2024
+229,1c5aba62-6487-474a-a6b8-162df4a3e83b,Syndicate E-Business Info-Mediaries,Seasonal,Students,Lewis LLC,2023-11-11,2023-11-22,51.83,percentage,852.63,2023-11-11,2023-11-22,False,2023
+230,9b9b5b4f-fb20-4688-8c70-01184135a1b2,Embrace Ubiquitous Markets,Loyalty,All,"Taylor, Martin and Dickerson",2023-07-28,2023-08-09,17.56,fixed,1092.35,2023-07-28,2023-08-09,False,2023
+231,9d7838cd-b68b-4ca9-83ba-557fae1b8c9c,E-Enable Impactful Initiatives,Seasonal,All,Johnson-Choi,2024-03-29,2024-04-30,67.8,percentage,1683.17,2024-03-29,2024-04-30,True,2024
+232,3bcfe735-bd7a-438e-8df5-4fbc5049ed89,Engage Innovative Networks,Seasonal,All,Lopez PLC,2023-05-11,2023-07-02,26.68,fixed,1230.68,2023-05-11,2023-07-02,True,2023
+233,400f27e2-68a1-470a-9c7d-814fbbda6a41,Architect Bricks-And-Clicks Interfaces,Loyalty,Business,Long Inc,2024-11-01,2025-01-08,37.48,fixed,1653.86,2024-11-01,2025-01-08,False,2024
+234,0e2fb51f-1cc6-4375-bbed-9dcea0520230,Deploy Visionary Convergence,Seasonal,Business,Brown-Bowen,2024-11-12,2025-02-05,26.37,fixed,965.66,2024-11-12,2025-02-05,True,2024
+235,393d0ac4-c97e-4d5f-ab95-59b8f04f9b2a,Facilitate Virtual Methodologies,Flash Sale,Business,Shepherd Ltd,2024-04-15,2024-07-11,41.71,fixed,484.79,2024-04-15,2024-07-11,False,2024
+236,44d724c3-bc5b-4923-a4a0-a22dc00d5de0,Cultivate Web-Enabled Paradigms,Seasonal,Families,Martin-Park,2025-05-03,2025-06-29,56.74,fixed,1523.0,2025-05-03,2025-06-29,True,2025
+237,f88d7476-4826-4cb0-9658-8941f325a45a,Innovate Ubiquitous Networks,Flash Sale,Students,"Jackson, Smith and Morgan",2025-04-23,2025-07-18,23.36,fixed,1138.33,2025-04-23,2025-07-18,False,2025
+238,5d2cca7f-bc34-4fa3-8c40-164473abb764,Syndicate Web-Enabled Experiences,Flash Sale,Families,Martin-Park,2025-04-28,2025-05-16,16.59,fixed,1843.18,2025-04-28,2025-05-16,True,2025
+239,4fc4edbf-0bf9-43cf-97dc-a12972269a07,Leverage Revolutionary Experiences,Flash Sale,All,"Freeman, Myers and Thompson",2024-10-25,2025-01-03,44.11,percentage,1439.53,2024-10-25,2025-01-03,False,2024
+240,ce717a00-dfc8-4abe-8e95-ba125470edf5,Monetize Web-Enabled Action-Items,Anniversary,All,"Casey, Bailey and Martinez",2023-09-02,2023-11-07,36.65,percentage,1343.91,2023-09-02,2023-11-07,False,2023
+241,b0bf6998-f1c1-4c89-bfaa-bef478febcbe,Whiteboard Impactful Solutions,Seasonal,Students,Harris-Rodriguez,2025-01-16,2025-02-24,55.42,fixed,985.65,2025-01-16,2025-02-24,True,2025
+242,493a6ffd-d24a-4e6e-9562-5a9e465b51ce,Exploit B2C Metrics,Seasonal,All,"Ayala, Davis and Roberts",2023-05-31,2023-07-10,69.57,fixed,1051.97,2023-05-31,2023-07-10,False,2023
+243,9c45214f-b2c9-4b5c-b998-27c25f224f2c,Disintermediate Real-Time Roi,Flash Sale,Business,"Ayala, Davis and Roberts",2024-02-22,2024-04-20,10.86,fixed,300.81,2024-02-22,2024-04-20,False,2024
+244,b1a01e0c-67b6-4457-93b9-476c3e54782b,Optimize Revolutionary Synergies,Seasonal,Students,"Stevens, Bishop and Rose",2024-04-06,2024-05-19,29.39,fixed,892.34,2024-04-06,2024-05-19,False,2024
+245,0fc1f6cc-8414-4d7a-b3bd-a2e61893d2a9,Deploy Viral E-Business,Anniversary,Families,Allen Group,2024-08-05,2024-09-13,67.0,percentage,465.05,2024-08-05,2024-09-13,True,2024
+246,d745af85-1b8e-494f-a720-281e61ae92cb,Iterate E-Business Paradigms,Seasonal,Business,"Casey, Bailey and Martinez",2024-03-06,2024-05-07,15.52,percentage,1017.23,2024-03-06,2024-05-07,False,2024
+247,e95e4fdf-8ffb-41ad-9211-561f200fbc90,Revolutionize Interactive Web-Readiness,Anniversary,Families,"Freeman, Myers and Thompson",2025-04-29,2025-06-16,49.68,percentage,261.49,2025-04-29,2025-06-16,True,2025
+248,db622974-e700-43ba-8a03-61c1cf081768,Evolve Back-End Channels,Flash Sale,Families,Smith-Freeman,2025-02-15,2025-03-20,68.01,percentage,1418.34,2025-02-15,2025-03-20,False,2025
+249,9945dd26-3786-423a-a15e-e57c685292ef,Empower Sticky Portals,Loyalty,Students,"Martinez, Austin and Bowman",2024-02-06,2024-02-19,21.3,percentage,1413.18,2024-02-06,2024-02-19,False,2024
+250,f9395df2-3ec6-49ea-ab2f-81e162f79b5a,Architect B2C Convergence,Anniversary,Families,Shepherd Ltd,2023-10-21,2023-12-20,48.32,percentage,737.52,2023-10-21,2023-12-20,True,2023
+251,5e78efd4-ebda-4612-8884-2a67fd304f3a,Streamline Dynamic Solutions,Loyalty,Business,Gray Inc,2023-12-28,2024-02-29,44.85,fixed,992.6,2023-12-28,2024-02-29,False,2023
+252,1ab48163-30bb-4d13-9fca-0e217efa587c,Leverage Interactive E-Tailers,Flash Sale,Families,Pruitt and Sons,2025-03-12,2025-04-13,65.69,fixed,1871.78,2025-03-12,2025-04-13,True,2025
+253,5885408e-5286-4d2d-908d-944eab045f6d,Architect Back-End Architectures,Loyalty,All,Kelley and Sons,2024-03-22,2024-06-11,51.63,fixed,1840.3,2024-03-22,2024-06-11,True,2024
+254,b7002856-10af-4f8e-851f-f9c9c2d56006,Iterate Seamless Solutions,Seasonal,Students,Lewis LLC,2023-09-24,2023-11-27,6.49,percentage,1892.45,2023-09-24,2023-11-27,False,2023
+255,f1b7fb73-dafb-46fb-afd4-27b413dc60c5,Syndicate Real-Time E-Business,Loyalty,Families,Martin-Park,2025-01-07,2025-02-22,20.74,fixed,1072.21,2025-01-07,2025-02-22,True,2025
+256,1b001a5d-125a-4766-8fb5-db6206d81f01,Iterate E-Business Partnerships,Seasonal,All,"Davis, Larson and Clark",2024-05-23,2024-07-26,51.22,fixed,1600.18,2024-05-23,2024-07-26,False,2024
+257,9e29cb2d-a687-477f-8505-c4ecc6fe2012,Productize Open-Source Architectures,Flash Sale,Business,"Stevens, Bishop and Rose",2024-11-06,2024-12-12,34.41,percentage,423.96,2024-11-06,2024-12-12,False,2024
+258,088c3cf9-30cb-4a34-bdf5-7e48543b13cc,Generate Mission-Critical Platforms,Anniversary,All,Mason and Sons,2024-08-16,2024-09-08,24.28,fixed,290.1,2024-08-16,2024-09-08,True,2024
+259,6662b84a-c52a-4c56-baa3-11dea53a9f30,Iterate Rich Web Services,Flash Sale,Families,Arellano-Davis,2023-11-01,2023-11-16,32.38,percentage,420.25,2023-11-01,2023-11-16,True,2023
+260,88ecdded-79f8-4de8-9ff6-93b0a72ee909,Innovate Value-Added Deliverables,Flash Sale,Students,Lewis LLC,2023-08-03,2023-10-21,52.24,percentage,1791.51,2023-08-03,2023-10-21,False,2023
+261,aaf2bef5-8002-490d-adbe-7ecc2dc80259,Deliver Strategic Vortals,Anniversary,Business,Gray Inc,2023-10-11,2023-11-24,39.68,percentage,1949.46,2023-10-11,2023-11-24,False,2023
+262,4b8606ac-107e-46ed-bc4b-b47e440466a0,Incentivize Enterprise Supply-Chains,Seasonal,Students,Lopez PLC,2025-03-21,2025-05-11,26.85,fixed,1498.59,2025-03-21,2025-05-11,False,2025
+263,6ffebaa3-bc8a-4af6-80b2-021b9549f3c2,Scale Web-Enabled Functionalities,Anniversary,Students,"Ward, Wright and Myers",2024-03-01,2024-05-23,49.23,fixed,1466.14,2024-03-01,2024-05-23,True,2024
+264,d9739233-efe4-482f-9bfa-7d12c40f2562,Aggregate Compelling Synergies,Anniversary,Students,"Potter, Reed and Jacobs",2023-05-22,2023-08-15,38.64,percentage,1750.9,2023-05-22,2023-08-15,True,2023
+265,3165867c-610d-4d25-843f-af7ac469df49,Disintermediate Bricks-And-Clicks Mindshare,Anniversary,Students,Johnson-Choi,2025-01-05,2025-02-03,39.5,fixed,852.19,2025-01-05,2025-02-03,False,2025
+266,486a727c-939d-48c1-a2e3-7ed8e436e5e8,Enhance One-To-One Channels,Flash Sale,All,Brown-Bowen,2023-07-08,2023-08-17,64.33,fixed,363.49,2023-07-08,2023-08-17,True,2023
+267,d5e8204a-896b-468a-8932-82ae479254e0,Engineer 24/7 Portals,Anniversary,Students,Shepherd Ltd,2024-08-05,2024-08-16,8.45,percentage,694.17,2024-08-05,2024-08-16,True,2024
+268,445367f7-ccde-4319-864d-5a9a2ad3ba77,Engage User-Centric E-Business,Flash Sale,Families,"Ward, Wright and Myers",2023-07-27,2023-09-04,58.66,percentage,1486.33,2023-07-27,2023-09-04,False,2023
+269,77bde979-2529-463a-9cf6-74829adf98f3,Target Virtual Portals,Loyalty,Business,"Freeman, Myers and Thompson",2024-01-03,2024-03-18,39.44,fixed,778.98,2024-01-03,2024-03-18,False,2024
+270,617d4a28-c03f-44e6-9b1d-3ec0bd863c66,Embrace Out-Of-The-Box Info-Mediaries,Loyalty,Business,Shepherd Ltd,2023-10-21,2023-12-14,45.02,percentage,585.76,2023-10-21,2023-12-14,False,2023
+271,ca2e70e9-86d1-4fa6-aefe-866b0b710f12,Syndicate Intuitive E-Business,Loyalty,Families,"Ayala, Davis and Roberts",2023-05-25,2023-08-15,44.03,fixed,1729.27,2023-05-25,2023-08-15,True,2023
+272,30f450c3-9b55-4b4a-acf6-411ba80206a9,Optimize Sticky Paradigms,Anniversary,Students,Hall-Soto,2024-01-02,2024-03-05,66.94,fixed,1968.97,2024-01-02,2024-03-05,False,2024
+273,3f381831-412a-45ea-bbc8-31eb56de8e22,Architect Cross-Platform E-Markets,Flash Sale,Students,Carrillo-Dixon,2023-07-23,2023-09-17,63.64,percentage,1020.39,2023-07-23,2023-09-17,False,2023
+274,01381e1a-10ff-455f-86cb-e196a18f912a,Evolve Frictionless Solutions,Anniversary,Families,"Christian, Smith and Coffey",2023-11-01,2024-01-23,61.62,fixed,223.42,2023-11-01,2024-01-23,False,2023
+275,2923f3cb-eb40-44f6-8e91-0240d69a1dfc,Harness 24/365 Bandwidth,Flash Sale,Students,Mason and Sons,2023-06-24,2023-08-24,56.84,fixed,592.1,2023-06-24,2023-08-24,True,2023
+276,96b46bdd-44cf-4801-875c-7b311dfb27eb,Re-Intermediate Next-Generation Synergies,Anniversary,Families,Dalton Group,2024-07-27,2024-10-13,55.08,fixed,1719.21,2024-07-27,2024-10-13,True,2024
+277,f40053cf-8765-4e1d-ac38-ff72b8f437c2,Repurpose Strategic Supply-Chains,Anniversary,Business,Gray Inc,2024-11-05,2025-01-06,65.59,fixed,1205.48,2024-11-05,2025-01-06,True,2024
+278,f2a803ea-1564-4c30-b3cc-1bf2ee967379,Benchmark Wireless Metrics,Anniversary,All,Roberts-Meza,2025-02-12,2025-04-11,55.24,fixed,635.16,2025-02-12,2025-04-11,True,2025
+279,1e8b3369-b2b6-4ecd-a073-e3fbc35461ce,Deliver Cutting-Edge Bandwidth,Seasonal,Students,Dalton Group,2024-12-07,2025-01-14,9.89,fixed,772.53,2024-12-07,2025-01-14,True,2024
+280,839b1e11-7086-4316-8e7a-b3cc14f629f3,Maximize Distributed Communities,Anniversary,Business,Beck and Sons,2023-08-27,2023-11-04,55.24,percentage,1078.85,2023-08-27,2023-11-04,False,2023
+281,5ca30bc2-e64e-46f0-9bb2-81ed16ac2d39,Envisioneer Virtual Solutions,Flash Sale,All,"Christian, Smith and Coffey",2024-12-01,2025-01-19,44.79,percentage,1458.6,2024-12-01,2025-01-19,True,2024
+282,81b3d9c6-cabe-45a8-889f-80e385b496ed,Re-Intermediate Bricks-And-Clicks Solutions,Flash Sale,Business,Harvey-Hamilton,2025-04-22,2025-05-03,35.84,fixed,1517.28,2025-04-22,2025-05-03,True,2025
+283,b7e98a58-2f18-4180-a030-668655cf8c5e,Reinvent Intuitive Content,Seasonal,All,Harris-Rodriguez,2024-04-21,2024-06-23,64.63,percentage,1846.37,2024-04-21,2024-06-23,False,2024
+284,767c52f7-b630-493f-9466-4a03532d4e91,Whiteboard 24/7 Networks,Flash Sale,Business,Hamilton-Todd,2023-11-10,2023-12-18,19.8,percentage,268.4,2023-11-10,2023-12-18,False,2023
+285,53ccfcea-3e18-4cca-b401-a83c3b62cebe,Mesh Dynamic Synergies,Flash Sale,Families,"Stevens, Bishop and Rose",2024-06-22,2024-07-19,18.17,fixed,1799.86,2024-06-22,2024-07-19,False,2024
+286,62e1bf7c-0bf0-46a3-9b1a-1c338b3776c0,Evolve Mission-Critical Networks,Loyalty,Business,Hall-Soto,2025-01-21,2025-03-12,21.72,percentage,1943.04,2025-01-21,2025-03-12,False,2025
+287,b8ea4b7f-c15a-4981-acd1-dc218565f99f,E-Enable B2B Applications,Flash Sale,Business,Walker Group,2023-08-17,2023-10-15,10.0,percentage,680.95,2023-08-17,2023-10-15,True,2023
+288,87a83d31-6356-4725-852a-17d23bfbc96d,Grow Dynamic Portals,Anniversary,Business,Russell Group,2025-01-12,2025-03-02,29.6,percentage,188.06,2025-01-12,2025-03-02,True,2025
+289,2384f708-54d2-460b-8db7-c700cc29f027,Benchmark Web-Enabled Bandwidth,Loyalty,Families,Carrillo-Dixon,2025-03-16,2025-05-24,58.0,fixed,1295.41,2025-03-16,2025-05-24,True,2025
+290,ed39fc10-3ad0-45dd-8709-ca0882b0d9bb,Enhance Robust E-Services,Flash Sale,Families,Johnson-Choi,2024-11-01,2025-01-17,47.35,fixed,845.37,2024-11-01,2025-01-17,False,2024
+291,7d631e3d-4b2d-4cae-8103-4c533512ba5a,Envisioneer Transparent E-Commerce,Anniversary,All,"Potter, Reed and Jacobs",2023-12-15,2024-03-01,9.88,fixed,652.87,2023-12-15,2024-03-01,True,2023
+292,9c237f57-5d0f-4876-8c01-bb993678cc3b,Engage Next-Generation Web Services,Seasonal,Business,Carrillo-Dixon,2023-12-14,2024-02-16,17.47,fixed,1383.85,2023-12-14,2024-02-16,True,2023
+293,05ab12d5-63b2-41f8-be9f-9d3d3ce9e3de,Orchestrate Front-End Web-Readiness,Flash Sale,Students,Shaw-Thornton,2024-09-07,2024-11-21,12.54,fixed,955.71,2024-09-07,2024-11-21,True,2024
+294,5602af54-e5c3-4fa7-b85d-2f4bc541e8be,Aggregate Plug-And-Play Schemas,Seasonal,Business,Pruitt and Sons,2023-11-18,2024-01-01,59.52,fixed,160.93,2023-11-18,2024-01-01,True,2023
+295,ff1a7d44-5a47-4226-ad5d-f073e97884c6,Reinvent Innovative Markets,Flash Sale,Business,Harris-Rodriguez,2023-12-26,2024-01-08,22.51,percentage,560.02,2023-12-26,2024-01-08,True,2023
+296,c1b72e9b-bbeb-4d91-b9a3-c9b7efba79e9,Enable Bricks-And-Clicks Models,Seasonal,All,Harvey-Hamilton,2024-05-09,2024-05-31,30.65,percentage,296.85,2024-05-09,2024-05-31,False,2024
+297,7372e17a-7b35-4700-a576-928debb93ef9,Incubate Revolutionary Technologies,Anniversary,Students,Henderson and Sons,2023-10-04,2023-10-20,49.12,fixed,1111.3,2023-10-04,2023-10-20,True,2023
+298,8378eac0-65c0-4ab4-bfb8-40cd1bea71da,Expedite Holistic Partnerships,Anniversary,All,Chan-Ponce,2025-04-10,2025-07-04,64.11,percentage,578.3,2025-04-10,2025-07-04,False,2025
+299,1d9fb84a-d89d-44a0-8c42-8392ddf319f2,Extend Frictionless E-Tailers,Anniversary,All,Bush Group,2025-04-27,2025-05-24,29.72,percentage,574.82,2025-04-27,2025-05-24,True,2025
+300,3019a6de-9807-4e5d-8c7f-35fd5c7e53f6,Redefine Visionary Markets,Flash Sale,All,Harris-Rodriguez,2024-05-16,2024-08-03,62.73,percentage,1942.07,2024-05-16,2024-08-03,True,2024
+301,48bbe44f-a185-409a-98ca-fc62bd2c6f77,Orchestrate Value-Added Bandwidth,Loyalty,Families,"Stevens, Bishop and Rose",2024-03-11,2024-04-23,60.66,percentage,223.31,2024-03-11,2024-04-23,True,2024
+302,2752537c-f681-412a-91b9-cb0c3082c001,Architect Granular Applications,Flash Sale,All,Walker Group,2023-07-14,2023-07-28,31.55,percentage,1458.62,2023-07-14,2023-07-28,True,2023
+303,dc4dceff-10c0-4a1e-81f7-5b468da4871d,Monetize Proactive Systems,Seasonal,Families,Davis PLC,2024-04-15,2024-06-02,38.25,percentage,877.63,2024-04-15,2024-06-02,False,2024
+304,3b9cf201-c6d6-461c-aee6-2cc52386d5a3,Expedite Rich Synergies,Seasonal,Families,Gray Inc,2024-11-09,2024-12-06,32.52,percentage,1994.58,2024-11-09,2024-12-06,False,2024
+305,dc5d6771-ddce-424e-ba30-020a4e1cedd5,Embrace Value-Added Systems,Seasonal,All,"Ayala, Davis and Roberts",2024-09-27,2024-10-14,28.56,percentage,1078.76,2024-09-27,2024-10-14,True,2024
+306,a0a1bcd2-9bab-41e2-8834-d14c29fd8fef,Deliver Robust Relationships,Seasonal,All,Long Inc,2023-07-16,2023-08-13,66.37,percentage,745.23,2023-07-16,2023-08-13,False,2023
+307,11378c89-9594-4f28-933b-a836ee08b67e,Streamline Dynamic E-Business,Seasonal,Students,"Christian, Smith and Coffey",2024-05-04,2024-05-20,44.08,percentage,1953.02,2024-05-04,2024-05-20,False,2024
+308,dbce5694-91e5-44ed-bae4-01f8afbe6b3d,Seize Global Portals,Seasonal,Students,"Ayala, Davis and Roberts",2023-07-13,2023-07-26,50.6,fixed,502.21,2023-07-13,2023-07-26,True,2023
+309,8cfc9950-5a4a-4120-8714-753fbb2514b7,Morph Next-Generation Vortals,Loyalty,Families,"Martinez, Austin and Bowman",2023-11-13,2023-12-28,21.02,fixed,1985.97,2023-11-13,2023-12-28,False,2023
+310,1579d3be-7bc8-49e8-adef-08581fe1f34a,Cultivate Bricks-And-Clicks Metrics,Loyalty,All,Roberts-Meza,2023-12-25,2024-01-31,48.64,percentage,577.9,2023-12-25,2024-01-31,True,2023
+311,d699109b-0827-487b-88ea-9e38c1a39c2b,Enhance Efficient Metrics,Seasonal,Business,Harris-Rodriguez,2024-05-30,2024-06-27,65.07,fixed,1192.34,2024-05-30,2024-06-27,True,2024
+312,e93e0f7e-ad0c-495b-96d2-bd62aa829532,Strategize Best-Of-Breed Eyeballs,Seasonal,Business,Chan-Ponce,2024-01-15,2024-02-19,37.35,percentage,1284.53,2024-01-15,2024-02-19,True,2024
+313,b2e15401-0d14-4e71-bd75-23951fc982da,Monetize Ubiquitous Experiences,Loyalty,Students,Henderson and Sons,2025-04-01,2025-04-11,67.1,fixed,270.27,2025-04-01,2025-04-11,True,2025
+314,9f3f01d0-de53-4f2a-a07d-696c553fd036,Benchmark Holistic Interfaces,Seasonal,All,"Davis, Larson and Clark",2023-12-16,2024-02-28,18.77,fixed,1553.89,2023-12-16,2024-02-28,True,2023
+315,8c58ba95-598e-4add-abc5-d093cfc67627,Brand Magnetic Synergies,Seasonal,All,Henderson and Sons,2024-02-24,2024-03-29,32.45,percentage,1198.3,2024-02-24,2024-03-29,True,2024
+316,d875047e-f108-4a74-bd2d-78637d947df1,Target Best-Of-Breed E-Business,Flash Sale,Students,Ayers and Sons,2023-05-22,2023-06-14,44.27,percentage,1393.66,2023-05-22,2023-06-14,True,2023
+317,52cf4cfa-8d14-4ac7-809c-a5c984bc84d4,Revolutionize Plug-And-Play Technologies,Loyalty,Students,"Cohen, Lester and Greene",2025-02-12,2025-04-29,31.11,percentage,1794.3,2025-02-12,2025-04-29,False,2025
+318,227f2a34-43b6-4e95-874d-b38bf1a6e3d1,Implement One-To-One Partnerships,Anniversary,Families,Hall-Soto,2025-01-12,2025-01-29,34.88,fixed,1214.25,2025-01-12,2025-01-29,False,2025
+319,1f4af9d0-0e97-4e97-87cb-efce516bc156,Envisioneer Plug-And-Play Niches,Anniversary,All,Lewis LLC,2024-07-29,2024-08-10,9.78,percentage,223.23,2024-07-29,2024-08-10,True,2024
+320,1f8f61d9-39fc-46db-88b0-11ac37c9ce27,Aggregate World-Class Action-Items,Flash Sale,Business,Ayers and Sons,2023-07-23,2023-09-25,12.39,percentage,1223.75,2023-07-23,2023-09-25,True,2023
+321,66ff7bc2-3a00-4c60-bdc8-97a0c1da5aa9,Envisioneer Bricks-And-Clicks Paradigms,Seasonal,Students,Johnson-Choi,2024-05-06,2024-06-27,33.33,fixed,1911.87,2024-05-06,2024-06-27,True,2024
+322,51f4e008-8130-4a8e-8473-677726285722,Matrix Open-Source Web-Readiness,Anniversary,All,Kelley and Sons,2025-04-16,2025-06-28,45.44,percentage,1139.38,2025-04-16,2025-06-28,True,2025
+323,08afbc39-be52-4c1d-a77e-6abeeee88c0d,Brand Back-End Applications,Flash Sale,Business,Arellano-Davis,2025-03-16,2025-06-05,27.56,fixed,1369.21,2025-03-16,2025-06-05,False,2025
+324,43d66295-3847-41bb-bd7b-45c6ed681506,Incubate Scalable Web Services,Loyalty,Families,Carrillo-Dixon,2023-05-28,2023-07-24,67.19,percentage,1841.25,2023-05-28,2023-07-24,True,2023
+325,e49dddf5-f0ad-4e6c-b28f-a6b1a82c87f5,Mesh Sticky Systems,Anniversary,Families,"Cohen, Lester and Greene",2024-11-24,2025-01-05,18.06,fixed,1852.38,2024-11-24,2025-01-05,True,2024
+326,8d10d76c-824f-4c6c-9f15-c73e1a36009d,Maximize Revolutionary E-Business,Flash Sale,All,Shepherd Ltd,2024-05-08,2024-07-14,69.14,fixed,1046.11,2024-05-08,2024-07-14,True,2024
+327,c174ba89-1572-4a16-a1b9-d0d1d33d0e85,Envisioneer 24/365 E-Services,Loyalty,Students,Lopez PLC,2025-02-11,2025-04-14,18.16,percentage,1001.3,2025-02-11,2025-04-14,True,2025
+328,ab4c548c-4cff-4a8c-b293-a0dfe3e9942b,Orchestrate Front-End Web-Readiness,Anniversary,Students,Brown-Bowen,2024-06-15,2024-07-19,40.19,percentage,727.77,2024-06-15,2024-07-19,True,2024
+329,e1ba723e-7bc3-49d8-98a4-e392c6c2a077,Envisioneer Back-End Paradigms,Anniversary,Business,Harris-Rodriguez,2024-11-12,2025-01-16,27.64,fixed,1474.04,2024-11-12,2025-01-16,False,2024
+330,051ad7c0-3325-43e0-89ed-3531e5eeddd1,Revolutionize Holistic Convergence,Seasonal,Business,Conrad LLC,2024-07-09,2024-07-22,10.76,percentage,1571.28,2024-07-09,2024-07-22,True,2024
+331,03bd48a1-eeed-443d-ae42-ffdb57eee6b6,Target 24/7 Platforms,Loyalty,Students,Church-Long,2024-05-17,2024-06-30,69.16,fixed,1105.97,2024-05-17,2024-06-30,False,2024
+332,4fa553b5-6865-4ebb-a64e-04e95df9c513,Implement Turn-Key Applications,Anniversary,All,Smith-Freeman,2023-09-01,2023-11-18,54.84,fixed,1097.08,2023-09-01,2023-11-18,False,2023
+333,a8729535-fb67-4701-ae1b-e1bb6f19081c,Architect One-To-One Content,Anniversary,All,Pruitt and Sons,2023-12-20,2024-03-17,66.95,percentage,1944.94,2023-12-20,2024-03-17,False,2023
+334,4a46799a-5b86-4610-90f1-efe262ce17a0,Redefine Visionary Supply-Chains,Flash Sale,Families,Roberts-Meza,2024-08-05,2024-08-25,10.32,percentage,620.89,2024-08-05,2024-08-25,True,2024
+335,806eb55d-c5ae-4c6c-87a1-8a1af4ff15fc,Seize Global Metrics,Flash Sale,All,"Potter, Reed and Jacobs",2023-11-26,2023-12-25,9.74,fixed,278.15,2023-11-26,2023-12-25,True,2023
+336,da1729b8-9247-473a-9090-59e04195d4e7,Envisioneer Seamless Technologies,Anniversary,All,"Davis, Larson and Clark",2025-03-28,2025-04-18,14.93,percentage,863.44,2025-03-28,2025-04-18,True,2025
+337,6d102356-ec2a-4d33-bd0e-b84599040826,Deliver Scalable Web-Readiness,Seasonal,Business,Roberts-Meza,2023-08-17,2023-10-04,36.24,percentage,625.91,2023-08-17,2023-10-04,False,2023
+338,0333a2e5-512a-4e61-9dbb-9d3a028cfd59,Matrix E-Business Content,Loyalty,Families,Shaw-Thornton,2023-12-09,2024-01-15,46.42,fixed,864.97,2023-12-09,2024-01-15,True,2023
+339,cd4dde1b-ab84-4d0a-a988-7aed17ec37df,Innovate One-To-One Networks,Seasonal,All,"Christian, Smith and Coffey",2024-01-29,2024-04-11,61.16,percentage,333.52,2024-01-29,2024-04-11,False,2024
+340,14e3fbcd-a0e5-4dd5-ae6f-59b5c2439493,Seize Web-Enabled Models,Anniversary,Families,"Barrera, White and Miller",2023-11-11,2024-01-06,43.92,percentage,1751.16,2023-11-11,2024-01-06,False,2023
+341,74943079-ffa7-480b-9dcd-cf3b5e9039f9,Reinvent Efficient E-Markets,Flash Sale,Families,Mckay-Dixon,2023-12-24,2024-02-03,65.84,percentage,364.42,2023-12-24,2024-02-03,True,2023
+342,7b9eea30-88a7-41be-887a-ef3b1e0bcfcf,Cultivate Integrated Roi,Flash Sale,Students,"Cohen, Lester and Greene",2023-07-10,2023-07-31,55.43,percentage,1414.18,2023-07-10,2023-07-31,True,2023
+343,ecdd52f8-8824-4886-a321-59ed92042c5a,Envisioneer Distributed Vortals,Loyalty,Students,Hamilton-Todd,2023-08-16,2023-10-26,14.87,percentage,1080.57,2023-08-16,2023-10-26,True,2023
+344,34c9af22-6aba-4c1a-a377-0ccacaa9cd31,Utilize World-Class Applications,Anniversary,Families,Davis PLC,2024-05-16,2024-08-08,49.67,fixed,150.6,2024-05-16,2024-08-08,False,2024
+345,5e3212e1-d553-40db-92f2-9e65d0fe30a8,Target Cross-Media Solutions,Anniversary,Students,Lopez PLC,2024-10-23,2024-11-03,66.28,percentage,495.41,2024-10-23,2024-11-03,True,2024
+346,fbb04312-3f90-4be2-a7ff-d4068ee83f37,Streamline Sticky Methodologies,Loyalty,Students,"Hill, Nichols and Williams",2024-01-18,2024-02-01,17.72,fixed,273.68,2024-01-18,2024-02-01,False,2024
+347,854b2dc7-3263-476c-aa92-603d47f1af06,Deploy Holistic Eyeballs,Seasonal,Business,Harris-Rodriguez,2024-05-20,2024-06-13,30.09,percentage,221.07,2024-05-20,2024-06-13,False,2024
+348,ba3e0ca2-6656-41ad-8f33-6be504ee5a2e,Generate Seamless Systems,Flash Sale,Business,"Taylor, Martin and Dickerson",2024-10-23,2024-11-07,49.01,fixed,1246.54,2024-10-23,2024-11-07,False,2024
+349,8215c593-2cbc-4689-91d8-6f5b480fa55a,Visualize Rich Functionalities,Loyalty,Business,"Taylor, Martin and Dickerson",2023-06-16,2023-08-02,40.5,percentage,836.57,2023-06-16,2023-08-02,False,2023
+350,496b1920-5bfc-4d5e-9d9a-cb48b7d44ea8,Benchmark Killer Content,Loyalty,Students,Russell Group,2024-08-05,2024-08-30,69.57,fixed,1325.77,2024-08-05,2024-08-30,True,2024
+351,6de49957-6cc1-4857-9cd8-db733b382085,Engage Best-Of-Breed Bandwidth,Seasonal,Students,"Davis, Larson and Clark",2025-03-28,2025-05-17,47.76,fixed,1445.78,2025-03-28,2025-05-17,False,2025
+352,a5f703e0-d2fd-4e31-ae5a-36c95646168a,Incentivize Integrated Models,Anniversary,Students,Pruitt and Sons,2024-06-07,2024-08-13,32.02,percentage,1543.71,2024-06-07,2024-08-13,True,2024
+353,5b8f223e-f4e6-4ba4-90f3-ba3b07732ac8,Maximize Impactful Technologies,Anniversary,Families,Chan-Ponce,2023-05-29,2023-07-06,8.83,percentage,769.55,2023-05-29,2023-07-06,False,2023
+354,0350e5c8-96e0-4917-b0c8-a2bff4388240,Generate Clicks-And-Mortar E-Commerce,Loyalty,Business,"Potter, Reed and Jacobs",2023-09-07,2023-11-03,37.99,percentage,515.26,2023-09-07,2023-11-03,True,2023
+355,b9f37655-ed8e-4597-9e53-44041e6f913b,Productize E-Business Schemas,Flash Sale,Students,Brown-Bowen,2025-01-21,2025-02-27,31.79,fixed,485.37,2025-01-21,2025-02-27,False,2025
+356,660b2d55-1644-42a9-9530-5d9001615a98,Disintermediate Integrated Eyeballs,Anniversary,Families,"Cohen, Lester and Greene",2024-03-13,2024-03-30,5.69,fixed,1268.26,2024-03-13,2024-03-30,False,2024
+357,31869852-507e-4b2a-8363-4c880325be9b,Implement Magnetic Supply-Chains,Loyalty,Families,Russell Group,2024-03-30,2024-06-01,28.11,percentage,1199.68,2024-03-30,2024-06-01,True,2024
+358,0f484138-e9a9-4d9b-9965-38daf651d1cc,Re-Intermediate One-To-One Niches,Flash Sale,Students,Pruitt and Sons,2023-08-03,2023-09-22,5.63,fixed,1327.79,2023-08-03,2023-09-22,False,2023
+359,2a936692-5698-4e0a-bb42-2ffef7b9af6b,Productize Plug-And-Play E-Business,Anniversary,Business,Henderson and Sons,2025-02-19,2025-04-18,67.14,percentage,1902.31,2025-02-19,2025-04-18,False,2025
+360,9e765aa9-e48e-438b-bdfd-eda6141c05fc,Target One-To-One Solutions,Seasonal,Families,"Freeman, Myers and Thompson",2024-01-13,2024-04-04,69.98,percentage,1310.44,2024-01-13,2024-04-04,False,2024
+361,2e98d668-0fae-4afd-9cf9-1ab5b8675658,Empower User-Centric Mindshare,Flash Sale,All,Carrillo-Dixon,2023-11-03,2023-12-19,42.97,percentage,569.8,2023-11-03,2023-12-19,False,2023
+362,ef06d26b-195b-483a-858e-ae555fad4738,Engage End-To-End Methodologies,Loyalty,All,Kelley and Sons,2023-12-18,2024-01-06,35.88,percentage,1928.59,2023-12-18,2024-01-06,True,2023
+363,bd300851-2c63-4e26-b2ec-0c4e0eb8d430,Streamline Intuitive Niches,Loyalty,Business,Church-Long,2024-03-28,2024-04-07,16.21,percentage,134.27,2024-03-28,2024-04-07,False,2024
+364,c47b523d-9633-4417-8185-df51b802832e,Iterate Robust Markets,Flash Sale,Business,Mason and Sons,2024-08-14,2024-09-14,5.66,percentage,1751.06,2024-08-14,2024-09-14,True,2024
+365,4c4bc6d1-38cb-4e2b-8609-fcf55ec1f443,Engineer Value-Added Synergies,Loyalty,Students,"Ward, Wright and Myers",2025-03-03,2025-05-16,6.1,fixed,1174.95,2025-03-03,2025-05-16,False,2025
+366,ccaede57-bda2-464e-b111-490b9e77c393,Synergize Real-Time Partnerships,Seasonal,Business,Dalton Group,2024-02-21,2024-04-27,12.72,fixed,427.75,2024-02-21,2024-04-27,True,2024
+367,bc339c78-803e-44fb-8a11-a123158ffbd7,Expedite Viral Networks,Seasonal,Students,Martin-Park,2023-06-27,2023-09-19,41.18,percentage,1651.94,2023-06-27,2023-09-19,True,2023
+368,c4aa89b0-798f-4a78-af7b-de22e572946f,Deploy Value-Added Eyeballs,Anniversary,All,"Stevens, Bishop and Rose",2025-02-18,2025-05-16,49.39,fixed,341.08,2025-02-18,2025-05-16,True,2025
+369,46c74413-e2d7-4031-8a95-a278a4d67e9e,Deploy One-To-One Infrastructures,Flash Sale,All,Martin-Park,2023-09-02,2023-11-11,6.48,percentage,233.89,2023-09-02,2023-11-11,True,2023
+370,31acbca2-1be7-4a72-b029-005cc5adcb7d,Iterate Bricks-And-Clicks Functionalities,Anniversary,Families,Davis PLC,2025-02-27,2025-04-09,68.0,percentage,1979.94,2025-02-27,2025-04-09,True,2025
+371,e17a545c-a993-4158-8767-d50258932ef4,Mesh Scalable Info-Mediaries,Flash Sale,Families,Shepherd Ltd,2024-11-13,2025-01-07,62.1,percentage,1317.33,2024-11-13,2025-01-07,True,2024
+372,8a2e83c0-936f-40e9-9941-55a111aeb6a4,Exploit Revolutionary E-Business,Seasonal,Business,Davis PLC,2024-09-17,2024-10-14,7.13,fixed,539.35,2024-09-17,2024-10-14,True,2024
+373,98d3dfbf-b101-4312-8d39-1d8fb81a02e4,Seize Impactful Architectures,Seasonal,Business,Gray Inc,2024-09-03,2024-11-01,8.16,fixed,1754.48,2024-09-03,2024-11-01,False,2024
+374,b593ebeb-9162-42d8-87de-c75d6d4892b1,Grow User-Centric Roi,Flash Sale,Business,Brown-Bowen,2023-05-12,2023-05-22,53.85,percentage,1353.82,2023-05-12,2023-05-22,True,2023
+375,f15f3446-0dc8-4c2c-a1b2-bda99128289b,Target Extensible E-Tailers,Anniversary,Business,Kelley and Sons,2024-07-21,2024-10-13,42.21,fixed,247.42,2024-07-21,2024-10-13,True,2024
+376,d420e7c4-72b8-4dde-b64f-fafe8b16f007,Integrate Frictionless Niches,Loyalty,Business,Smith-Freeman,2024-05-04,2024-07-02,18.21,fixed,1048.36,2024-05-04,2024-07-02,True,2024
+377,bd133008-40a5-48fc-b785-c62982bc5b13,Synergize Front-End Functionalities,Loyalty,Students,Fernandez LLC,2025-03-14,2025-04-28,20.69,percentage,1954.64,2025-03-14,2025-04-28,True,2025
+378,94130dbd-c222-4f04-8433-a1d2198ef459,Morph Transparent Info-Mediaries,Flash Sale,Families,Hamilton-Todd,2024-09-16,2024-10-16,46.88,fixed,185.4,2024-09-16,2024-10-16,False,2024
+379,9edfa800-9f32-400b-b1fa-c3398165e0f1,Matrix User-Centric E-Business,Flash Sale,Business,Lopez PLC,2025-02-12,2025-04-09,47.16,fixed,309.23,2025-02-12,2025-04-09,True,2025
+380,73756e06-9553-4408-ab36-39c3e9a57513,Integrate Innovative Technologies,Seasonal,Business,Chan-Ponce,2023-09-03,2023-10-19,59.31,fixed,1749.21,2023-09-03,2023-10-19,False,2023
+381,034a5ea6-3690-4e92-9b35-a673ecd4f321,Maximize World-Class Deliverables,Flash Sale,Families,"Martinez, Austin and Bowman",2023-11-12,2024-02-02,57.85,percentage,791.19,2023-11-12,2024-02-02,False,2023
+382,0ee82ca0-d771-4309-ba58-e06a1fc292ff,Iterate Back-End Mindshare,Flash Sale,Families,"Casey, Bailey and Martinez",2024-10-28,2024-12-07,44.34,fixed,1666.28,2024-10-28,2024-12-07,False,2024
+383,e293c2ae-50e3-4ffe-8cb8-80d87ce46495,Whiteboard Value-Added Info-Mediaries,Flash Sale,Business,"Stevens, Bishop and Rose",2025-03-01,2025-05-25,15.17,percentage,826.77,2025-03-01,2025-05-25,True,2025
+384,3d1ef460-9cb9-4f34-a00b-d60d85a70b49,Benchmark Revolutionary Niches,Flash Sale,Business,Ayers and Sons,2024-05-04,2024-05-29,31.2,percentage,1376.73,2024-05-04,2024-05-29,True,2024
+385,11b77e7e-d261-4e93-9f6b-f50cf380f9f1,Morph B2B Systems,Flash Sale,Business,Henderson and Sons,2023-10-23,2024-01-16,22.13,percentage,1264.92,2023-10-23,2024-01-16,False,2023
+386,a5acb8c6-ae40-4031-95a4-3252862688ac,Re-Contextualize Cross-Media Technologies,Seasonal,Business,Mckay-Dixon,2023-11-10,2024-02-08,48.0,fixed,1780.86,2023-11-10,2024-02-08,True,2023
+387,aa7f417e-c1da-4b65-968f-6d72a7a591e7,Seize Sticky Bandwidth,Seasonal,All,Lopez PLC,2024-09-06,2024-11-13,5.2,percentage,665.03,2024-09-06,2024-11-13,True,2024
+388,3d053bcd-1313-42b7-bb08-d1d4cd7337e6,Benchmark Robust Interfaces,Flash Sale,Business,Johnson-Choi,2024-12-27,2025-01-26,69.71,fixed,564.74,2024-12-27,2025-01-26,False,2024
+389,622fcb2a-590f-4856-9a77-a64ba088846d,Matrix Out-Of-The-Box Systems,Anniversary,Families,Beck and Sons,2024-09-21,2024-11-19,61.49,fixed,792.68,2024-09-21,2024-11-19,True,2024
+390,9e5cfd95-f3ee-4ded-83a8-f284d5177965,Visualize Integrated Initiatives,Flash Sale,Business,"Casey, Bailey and Martinez",2024-09-09,2024-10-01,44.21,percentage,1766.46,2024-09-09,2024-10-01,False,2024
+391,c73ea641-62c8-4b3d-bb1a-c9c806bfd162,Implement Mission-Critical Communities,Seasonal,Business,Ayers and Sons,2023-06-13,2023-09-09,27.86,percentage,1415.65,2023-06-13,2023-09-09,True,2023
+392,f7fd92d2-f838-4309-abb5-58bb488e2edd,Harness Strategic Platforms,Loyalty,Students,"Taylor, Martin and Dickerson",2023-09-19,2023-11-16,35.42,percentage,777.97,2023-09-19,2023-11-16,True,2023
+393,f92e0289-6e6c-4019-89c6-07a9b4928535,Architect Vertical Communities,Seasonal,All,Ayers and Sons,2023-11-14,2024-01-04,47.84,fixed,1429.79,2023-11-14,2024-01-04,False,2023
+394,e22a4fbf-ea79-408c-bf4a-c7ae99d01f61,Innovate Customized Systems,Anniversary,Families,Johnson-Choi,2024-11-12,2024-12-28,45.89,percentage,382.2,2024-11-12,2024-12-28,True,2024
+395,04c4cfe7-cee5-466e-841f-b83f083c2a42,Re-Contextualize Open-Source Supply-Chains,Loyalty,Families,Kelley and Sons,2025-03-01,2025-05-30,43.05,fixed,447.55,2025-03-01,2025-05-30,True,2025
+396,131a91ba-c8f7-4390-950e-92959ed37062,Grow Virtual Networks,Seasonal,All,Dalton Group,2024-05-08,2024-06-27,53.34,percentage,641.82,2024-05-08,2024-06-27,False,2024
+397,7dca9446-bdcd-406a-be4d-e1a0f308651d,Monetize Transparent Vortals,Anniversary,Students,"Jackson, Smith and Morgan",2024-08-08,2024-10-31,17.77,percentage,1151.48,2024-08-08,2024-10-31,True,2024
+398,6ddbe99b-bcce-405e-9ecc-e122ddd56591,Exploit Value-Added Mindshare,Flash Sale,Business,Lopez PLC,2024-09-19,2024-11-30,49.88,fixed,601.09,2024-09-19,2024-11-30,False,2024
+399,145d5001-8203-4fd5-8edd-67b0deed6465,Re-Intermediate Front-End Technologies,Flash Sale,Business,Shaw-Thornton,2024-05-27,2024-08-18,59.55,percentage,1720.41,2024-05-27,2024-08-18,False,2024
+400,15010bb6-80c7-4acb-895b-0cf31785043b,Evolve Next-Generation Schemas,Seasonal,Business,Johnson-Choi,2023-06-06,2023-06-26,61.11,fixed,842.99,2023-06-06,2023-06-26,True,2023
+401,6066c611-2c0f-4439-8e6f-98f175556640,Synergize Strategic Vortals,Loyalty,Families,"Martinez, Austin and Bowman",2024-09-24,2024-10-18,27.0,percentage,938.42,2024-09-24,2024-10-18,False,2024
+402,4495ce93-08b1-4cd5-982e-1839092cb757,Leverage Synergistic E-Business,Seasonal,Business,"Stevens, Bishop and Rose",2023-05-30,2023-07-07,60.19,fixed,1268.5,2023-05-30,2023-07-07,True,2023
+403,87ab1613-d907-4467-9978-95124463ae5f,Leverage Frictionless Metrics,Flash Sale,Students,"Barrera, White and Miller",2023-10-08,2023-12-09,59.13,percentage,364.34,2023-10-08,2023-12-09,False,2023
+404,26f2590a-d7b4-412d-afd8-7d5cc9c3b0e2,Reinvent E-Business Portals,Seasonal,Families,Harris-Rodriguez,2024-05-10,2024-06-01,68.09,fixed,1805.89,2024-05-10,2024-06-01,True,2024
+405,8f79bdd9-1e60-4e57-a227-e51a4d2c56cc,Integrate Cutting-Edge Users,Loyalty,All,Hall-Soto,2024-04-16,2024-06-21,10.98,fixed,1624.71,2024-04-16,2024-06-21,True,2024
+406,d79f75a4-9fbe-4626-a45c-16b92aa4e4ee,Iterate Scalable Initiatives,Anniversary,All,Gray Inc,2023-06-12,2023-08-10,68.93,percentage,937.65,2023-06-12,2023-08-10,False,2023
+407,4f1ca8ab-e6b6-4557-bb7b-98e05a8c2903,Syndicate Ubiquitous Metrics,Loyalty,All,Smith-Freeman,2024-07-15,2024-08-10,61.08,fixed,683.26,2024-07-15,2024-08-10,True,2024
+408,8ad9c842-bb20-4f8b-9d5f-40c6ddbeed92,Engage Impactful Networks,Seasonal,Business,Long Inc,2024-12-26,2025-03-14,41.09,percentage,364.31,2024-12-26,2025-03-14,False,2024
+409,e75fadb6-be93-4561-829a-d79ce02942c8,Incentivize Open-Source Web-Readiness,Flash Sale,Business,Carrillo-Dixon,2023-08-28,2023-11-02,8.22,fixed,1490.36,2023-08-28,2023-11-02,False,2023
+410,d38d4dbf-5f77-49ac-8ff1-2760cf08f05f,Maximize Dynamic Content,Seasonal,Business,Lopez PLC,2023-09-16,2023-11-17,31.37,percentage,1341.08,2023-09-16,2023-11-17,True,2023
+411,765a4edb-3868-468f-b554-59d0f8c0b858,Repurpose Plug-And-Play Users,Seasonal,Families,"Barrera, White and Miller",2025-04-08,2025-05-11,58.83,percentage,1369.62,2025-04-08,2025-05-11,True,2025
+412,358ebb94-3c39-4a77-95bf-faf9e1d5c2f8,Extend Visionary Channels,Flash Sale,Families,Arellano-Davis,2024-08-23,2024-09-04,10.34,fixed,1832.76,2024-08-23,2024-09-04,True,2024
+413,6dbf744a-326e-4607-90bd-ac31d68c762f,Reinvent Customized Info-Mediaries,Flash Sale,Business,Church-Long,2024-12-07,2025-02-03,52.48,percentage,233.87,2024-12-07,2025-02-03,False,2024
+414,59355363-9823-4a2d-917b-ba202237ef9d,Embrace Best-Of-Breed Schemas,Anniversary,Families,Lewis LLC,2024-06-12,2024-07-07,44.89,percentage,1371.7,2024-06-12,2024-07-07,False,2024
+415,bd097e69-424d-42b1-b910-d32be7c279f3,Incentivize Wireless Relationships,Loyalty,All,"Hill, Nichols and Williams",2024-01-06,2024-03-09,26.32,percentage,1333.28,2024-01-06,2024-03-09,False,2024
+416,936f8ce5-c0e6-4bb4-92f3-a83249935b3a,Reinvent Wireless Convergence,Seasonal,All,"Casey, Bailey and Martinez",2025-03-03,2025-03-28,35.94,percentage,1769.52,2025-03-03,2025-03-28,True,2025
+417,d21a6d0f-ebca-4bc8-82af-64bc0dd1a581,Empower Out-Of-The-Box Infrastructures,Seasonal,Business,Henderson and Sons,2024-11-29,2024-12-16,7.18,fixed,1148.76,2024-11-29,2024-12-16,True,2024
+418,ed739cef-8ab9-49c5-9d80-48494f03b16d,Deploy Customized E-Services,Anniversary,Business,Harvey-Hamilton,2023-10-24,2023-11-26,18.06,fixed,1820.09,2023-10-24,2023-11-26,True,2023
+419,c6f63890-bbd9-4e09-8c21-43229947a02b,Expedite Innovative Models,Seasonal,Students,"Martinez, Austin and Bowman",2023-06-22,2023-07-07,45.35,percentage,1620.02,2023-06-22,2023-07-07,True,2023
+420,3977e010-9fe5-423c-b5f9-7768018446b7,Re-Contextualize Collaborative E-Tailers,Loyalty,All,Walker Group,2024-09-23,2024-12-14,16.57,fixed,457.82,2024-09-23,2024-12-14,False,2024
+421,7d9efc6e-e7bb-4d23-9915-e1a2eacd99ea,Re-Contextualize Impactful E-Markets,Seasonal,Students,Shaw-Thornton,2024-01-22,2024-04-03,30.52,percentage,947.8,2024-01-22,2024-04-03,True,2024
+422,96b939a7-a35c-4a05-86b1-3b470e084b14,Innovate Web-Enabled Relationships,Loyalty,Students,Ayers and Sons,2024-11-28,2024-12-28,6.73,percentage,1317.79,2024-11-28,2024-12-28,True,2024
+423,a6cb3fa6-b713-457a-a152-da4de099fb6e,Re-Contextualize Real-Time Niches,Anniversary,Families,Church-Long,2025-01-01,2025-02-16,7.33,percentage,572.27,2025-01-01,2025-02-16,False,2025
+424,9d365b08-1ba6-4b25-b40d-5983faae16c0,Monetize Cutting-Edge Convergence,Flash Sale,All,Harvey-Hamilton,2023-12-17,2024-01-10,66.58,percentage,451.43,2023-12-17,2024-01-10,True,2023
+425,03bcda4e-9403-4d96-83c6-efcd83106728,Transition Synergistic Architectures,Anniversary,All,"Potter, Reed and Jacobs",2024-08-24,2024-10-12,13.95,percentage,1107.23,2024-08-24,2024-10-12,False,2024
+426,a91d0f91-1368-427e-8d31-06ecb0ea93d0,Scale Cross-Platform E-Tailers,Loyalty,Students,Arellano-Davis,2023-11-30,2024-02-01,50.03,fixed,1449.64,2023-11-30,2024-02-01,True,2023
+427,d0bd88e1-af73-4b57-a1b0-5007a3101f6f,Aggregate Intuitive Convergence,Flash Sale,All,Ayers and Sons,2023-08-16,2023-11-13,27.92,percentage,1586.41,2023-08-16,2023-11-13,False,2023
+428,692a1505-bcc6-4e73-9e30-dff89006aa0d,Deploy Turn-Key E-Commerce,Anniversary,Students,"Ward, Wright and Myers",2024-05-04,2024-06-24,51.02,percentage,143.87,2024-05-04,2024-06-24,True,2024
+429,e8ff683d-7e3e-48d4-bc7b-f04e9f412fb7,Reinvent Extensible Experiences,Flash Sale,Families,Fernandez LLC,2024-11-18,2025-01-07,32.27,fixed,1741.07,2024-11-18,2025-01-07,False,2024
+430,d911c0b2-3605-4910-8173-61fd707391f1,Synergize Synergistic Schemas,Loyalty,Students,Mckay-Dixon,2023-10-18,2024-01-15,63.81,percentage,1274.46,2023-10-18,2024-01-15,True,2023
+431,61abb3ef-86ee-4121-8427-83b4a14a997f,Enable Transparent Platforms,Flash Sale,Business,"Casey, Bailey and Martinez",2024-06-15,2024-08-06,42.29,fixed,1504.17,2024-06-15,2024-08-06,True,2024
+432,49df73eb-1c59-437c-a59d-1e05d0bbc968,Utilize Integrated Functionalities,Flash Sale,All,"Ayala, Davis and Roberts",2023-12-13,2024-01-21,53.21,percentage,1991.59,2023-12-13,2024-01-21,True,2023
+433,3a3a45e9-1109-40ea-955d-97e71d9e4553,Benchmark Seamless E-Tailers,Flash Sale,Families,Lopez PLC,2024-09-20,2024-10-22,43.81,percentage,1552.0,2024-09-20,2024-10-22,True,2024
+434,db224f9d-0158-4c58-af26-39885d778371,Monetize Vertical Deliverables,Flash Sale,Families,"Stevens, Bishop and Rose",2023-11-29,2024-02-11,24.7,fixed,906.4,2023-11-29,2024-02-11,True,2023
+435,b0b7cfdb-ccf2-4233-b13c-01ca7ce7070c,Whiteboard Collaborative Portals,Flash Sale,Students,Allen Group,2024-09-05,2024-10-23,48.15,fixed,746.9,2024-09-05,2024-10-23,True,2024
+436,1049f48c-d22e-4522-be9d-9b1bcc1ea832,Embrace Distributed Deliverables,Loyalty,Families,"Freeman, Myers and Thompson",2023-11-06,2023-12-17,63.23,percentage,705.64,2023-11-06,2023-12-17,False,2023
+437,ec01c065-52f8-4c3b-9466-58910c101abc,Implement Synergistic Markets,Seasonal,Students,Davis PLC,2023-12-13,2024-02-21,39.71,fixed,993.15,2023-12-13,2024-02-21,True,2023
+438,c1c45a58-7d82-4f6a-aecf-45086dd0c06b,Leverage Magnetic Channels,Flash Sale,All,Lewis LLC,2024-11-03,2025-01-24,18.21,percentage,1682.76,2024-11-03,2025-01-24,False,2024
+439,eb26ddea-615b-4cc1-80d9-a3f3e9de2bf3,E-Enable Vertical Technologies,Seasonal,Families,Chan-Ponce,2023-08-27,2023-10-29,11.28,fixed,1693.93,2023-08-27,2023-10-29,False,2023
+440,7806e0b7-0943-488d-8e24-115ef5eeadb5,Maximize Proactive Partnerships,Flash Sale,Families,Beck and Sons,2024-12-24,2025-01-28,17.24,percentage,938.58,2024-12-24,2025-01-28,True,2024
+441,b9cc7453-ecdb-48aa-939d-c3fae5579468,Streamline Transparent Roi,Loyalty,Business,Roberts-Meza,2025-03-11,2025-04-26,66.19,fixed,569.12,2025-03-11,2025-04-26,True,2025
+442,86edd14a-44b9-4efc-866e-c59b7452da3d,Expedite Synergistic Initiatives,Flash Sale,Business,"Ayala, Davis and Roberts",2024-08-22,2024-10-12,56.15,percentage,836.14,2024-08-22,2024-10-12,False,2024
+443,d4e6703b-6b12-4d47-8b58-b986b4a303ce,Envisioneer Open-Source Niches,Anniversary,Families,"Ward, Wright and Myers",2025-01-22,2025-04-10,68.21,fixed,1012.97,2025-01-22,2025-04-10,True,2025
+444,2de1ff2c-c9d6-48b0-aa80-defd765eba32,Integrate Efficient Web Services,Seasonal,Families,Kelley and Sons,2024-12-13,2024-12-28,27.54,percentage,132.45,2024-12-13,2024-12-28,True,2024
+445,160fc2cb-ffa6-48f7-9062-a94c3c3fa0c8,Synthesize Transparent Platforms,Seasonal,Families,Harris-Rodriguez,2023-09-07,2023-09-30,6.72,percentage,1745.76,2023-09-07,2023-09-30,True,2023
+446,3ce03b8a-7732-43f0-afa9-00abf0c87b68,Optimize Turn-Key Systems,Seasonal,Families,Shepherd Ltd,2023-08-11,2023-09-15,62.41,percentage,891.63,2023-08-11,2023-09-15,False,2023
+447,ae97d9d5-23a7-4fcc-958c-dce334dc4437,Streamline Virtual Niches,Flash Sale,Families,Brown-Bowen,2024-11-05,2024-12-20,57.96,fixed,1875.36,2024-11-05,2024-12-20,True,2024
+448,36dc1f71-cd10-4127-8408-46a20f332ed4,Repurpose Vertical Initiatives,Anniversary,Families,Smith-Freeman,2023-12-16,2024-01-25,68.65,percentage,890.36,2023-12-16,2024-01-25,False,2023
+449,3806ffd1-a49d-4238-956f-92c743af2289,Productize Efficient Roi,Loyalty,Families,Harris-Rodriguez,2023-11-25,2024-01-19,56.23,fixed,432.64,2023-11-25,2024-01-19,False,2023
+450,f9c0a5aa-9cfd-4432-aefc-9f2735838bb9,Evolve User-Centric Web-Readiness,Seasonal,All,Carrillo-Dixon,2024-10-06,2024-11-13,44.76,percentage,474.44,2024-10-06,2024-11-13,True,2024
+451,e92f0889-7eee-4751-930e-e024aee19d90,Maximize Enterprise Eyeballs,Anniversary,Students,"Jackson, Smith and Morgan",2023-08-30,2023-09-11,38.5,percentage,1302.08,2023-08-30,2023-09-11,True,2023
+452,c884f970-25f4-4cf2-adfe-b064629d93fe,Evolve Virtual Paradigms,Seasonal,Business,Lopez PLC,2023-12-26,2024-02-10,21.56,fixed,961.23,2023-12-26,2024-02-10,True,2023
+453,335ef132-fb14-4a73-9b9c-70d0d8f7181a,Transition Best-Of-Breed Users,Anniversary,All,Bush Group,2025-03-09,2025-06-03,37.29,percentage,1832.64,2025-03-09,2025-06-03,True,2025
+454,620cc917-3e0e-4d05-b062-5b32dfcccdc4,Deploy Virtual Relationships,Loyalty,Families,Martin-Park,2025-04-30,2025-07-19,55.14,fixed,1462.93,2025-04-30,2025-07-19,True,2025
+455,fa7ecf7b-6bae-4774-8976-9c11315aebb2,Extend Plug-And-Play E-Markets,Flash Sale,Business,"Potter, Reed and Jacobs",2025-03-18,2025-06-14,67.17,fixed,884.13,2025-03-18,2025-06-14,True,2025
+456,6431793e-17a2-44ec-9c27-5b3ad442cbfc,Monetize Rich Web Services,Anniversary,Students,Roberts-Meza,2024-12-31,2025-03-16,5.69,percentage,1818.52,2024-12-31,2025-03-16,False,2024
+457,0c96e673-898c-4006-8333-0d51f2b406c2,Productize Frictionless Info-Mediaries,Flash Sale,Business,Conrad LLC,2024-03-27,2024-05-18,12.1,fixed,1401.73,2024-03-27,2024-05-18,False,2024
+458,db6c6fe8-f5e2-4741-a7c9-9c57ee40b3d5,Enable Scalable Networks,Loyalty,Business,Chan-Ponce,2024-10-05,2024-11-18,60.62,fixed,812.92,2024-10-05,2024-11-18,True,2024
+459,58e3c1dc-906f-428a-9b44-d887a95a0a8c,Generate Global Action-Items,Flash Sale,Students,"Freeman, Myers and Thompson",2023-08-31,2023-11-01,68.03,fixed,1754.24,2023-08-31,2023-11-01,True,2023
+460,dd1ae583-4b3c-427b-be34-ced0fc411234,Matrix 24/365 Experiences,Seasonal,Students,Lewis LLC,2024-01-18,2024-02-05,39.94,percentage,1215.85,2024-01-18,2024-02-05,False,2024
+461,e5d96fc2-1a6a-495a-a97a-542980448c74,Visualize Viral Models,Anniversary,Students,Chan-Ponce,2024-04-16,2024-07-10,41.82,percentage,232.94,2024-04-16,2024-07-10,False,2024
+462,16595ff6-717e-455b-8267-df5359d0f777,Reinvent Scalable E-Commerce,Loyalty,Business,"Freeman, Myers and Thompson",2024-03-01,2024-05-05,56.54,fixed,458.28,2024-03-01,2024-05-05,False,2024
+463,99b3393c-2582-4662-a2d6-d830c946cb80,Leverage Impactful Functionalities,Flash Sale,All,Mckay-Dixon,2023-10-15,2023-11-04,15.31,percentage,213.76,2023-10-15,2023-11-04,True,2023
+464,4b7fa220-1d1c-4470-9dde-dd24519b7f24,Innovate Revolutionary Eyeballs,Loyalty,Students,Ramos LLC,2023-07-05,2023-08-30,7.09,fixed,335.25,2023-07-05,2023-08-30,True,2023
+465,ab8b5a2d-9237-4931-b30d-e2545c4fac36,Morph Back-End Action-Items,Seasonal,All,Arellano-Davis,2024-08-31,2024-10-03,16.1,percentage,735.93,2024-08-31,2024-10-03,True,2024
+466,9d1255d5-5f25-41b4-a959-220f51d7c9b1,Drive Enterprise Paradigms,Anniversary,Students,Pruitt and Sons,2023-12-08,2024-03-07,59.71,fixed,1544.41,2023-12-08,2024-03-07,True,2023
+467,9d65c3ba-617d-4d2c-a2e0-b15cde3db23c,Synergize Leading-Edge Paradigms,Flash Sale,Business,"Barrera, White and Miller",2023-12-03,2024-02-24,56.96,fixed,1410.9,2023-12-03,2024-02-24,False,2023
+468,f822b15f-dccb-4934-8b02-b7f237b2f9be,Re-Contextualize Integrated Schemas,Flash Sale,All,"Barrera, White and Miller",2024-04-25,2024-06-13,11.06,fixed,252.15,2024-04-25,2024-06-13,True,2024
+469,85e3ca05-4118-47bb-8938-1d1fa2d5b06e,Orchestrate Global Action-Items,Loyalty,Business,Hall-Soto,2024-12-01,2025-02-21,8.49,percentage,1721.56,2024-12-01,2025-02-21,True,2024
+470,9a177e36-f704-4d9b-b779-803d9ecbc704,Grow Integrated Initiatives,Anniversary,Business,Ramos LLC,2025-01-12,2025-04-09,17.59,percentage,1629.31,2025-01-12,2025-04-09,False,2025
+471,f65d85be-a213-43f4-bf2a-e87200d347cc,Embrace One-To-One E-Markets,Flash Sale,Students,Davis PLC,2024-09-04,2024-12-03,24.96,percentage,358.47,2024-09-04,2024-12-03,True,2024
+472,702ef406-f6e7-4689-9b94-5c552b6cc9e7,Deliver Bricks-And-Clicks Methodologies,Flash Sale,Students,Davis PLC,2024-10-27,2024-12-30,53.46,percentage,622.3,2024-10-27,2024-12-30,False,2024
+473,806b3343-1d70-44a3-96ec-70383eee14af,Integrate Out-Of-The-Box Solutions,Flash Sale,Business,Pruitt and Sons,2024-07-17,2024-08-08,44.24,fixed,1127.65,2024-07-17,2024-08-08,False,2024
+474,3dd5ff78-af63-4b67-9d4e-5d59b28322f6,Incentivize Interactive Applications,Loyalty,All,Harvey-Hamilton,2024-02-02,2024-03-11,59.22,percentage,1321.37,2024-02-02,2024-03-11,True,2024
+475,6c8670c5-a5ce-45fb-b250-853b876c1aa3,Brand Robust Action-Items,Loyalty,All,Russell Group,2023-06-28,2023-09-18,52.41,percentage,200.43,2023-06-28,2023-09-18,False,2023
+476,6e4cc96f-2fa1-4c8a-a8ef-d4d84d2ff10c,Envisioneer Magnetic E-Business,Flash Sale,All,"Cohen, Lester and Greene",2024-11-15,2025-01-24,59.63,fixed,1889.49,2024-11-15,2025-01-24,False,2024
+477,4b136733-b9fe-4a7f-909e-aeeda467f473,Unleash Impactful Relationships,Seasonal,Students,"Taylor, Martin and Dickerson",2024-11-30,2024-12-14,8.76,percentage,145.26,2024-11-30,2024-12-14,False,2024
+478,d711ec3b-fd0c-4f13-9022-22b92c38ee91,Harness Customized Users,Anniversary,Students,Pruitt and Sons,2023-09-27,2023-11-14,52.3,percentage,277.64,2023-09-27,2023-11-14,False,2023
+479,909682a1-20ac-449b-9532-3f6f6d6ea36e,Iterate Global Initiatives,Anniversary,All,Conrad LLC,2023-05-17,2023-06-15,45.05,fixed,1591.12,2023-05-17,2023-06-15,True,2023
+480,736636e6-978a-4a09-990c-e62b49be3f55,Integrate Vertical Technologies,Loyalty,Students,Roberts-Meza,2024-08-02,2024-09-29,50.64,percentage,1544.98,2024-08-02,2024-09-29,False,2024
+481,11a91fcc-890b-4748-ba6a-422d175b4a7a,Monetize Scalable Vortals,Loyalty,Students,Mason and Sons,2024-05-11,2024-08-09,7.41,percentage,1901.46,2024-05-11,2024-08-09,False,2024
+482,fb15a37f-4dec-448a-b490-cdf9d6858166,Matrix Revolutionary Channels,Flash Sale,All,Hall-Soto,2024-02-14,2024-04-29,18.7,percentage,1824.39,2024-02-14,2024-04-29,True,2024
+483,1116ea21-9918-4dcd-945e-7d35896c0b62,Evolve 24/365 Platforms,Anniversary,Business,Dalton Group,2025-02-10,2025-03-15,43.3,percentage,1956.28,2025-02-10,2025-03-15,False,2025
+484,3be01b91-49f3-478d-9fb2-d316d5468777,Utilize Value-Added Web Services,Loyalty,Business,Hamilton-Todd,2025-01-26,2025-03-17,44.26,fixed,1322.45,2025-01-26,2025-03-17,True,2025
+485,c71afa89-beca-49c0-b042-4ddcc343746d,Redefine Bricks-And-Clicks Niches,Seasonal,Families,Beck and Sons,2024-08-15,2024-09-14,39.35,percentage,1262.26,2024-08-15,2024-09-14,True,2024
+486,96739d9d-39ac-42b0-bdb1-dd5f1e519af3,Engineer Viral Content,Loyalty,Students,Ayers and Sons,2025-01-28,2025-04-19,42.47,percentage,1417.07,2025-01-28,2025-04-19,False,2025
+487,d8040605-8f07-483a-b264-09db482f61f2,Drive Leading-Edge Schemas,Loyalty,Business,"Christian, Smith and Coffey",2023-09-13,2023-11-04,62.1,fixed,1978.52,2023-09-13,2023-11-04,False,2023
+488,8ed5d655-0f9b-4b4e-9f97-81bc61ccc21d,Exploit Cross-Platform Supply-Chains,Seasonal,Families,Ramos LLC,2024-10-21,2024-12-07,21.93,percentage,1008.1,2024-10-21,2024-12-07,True,2024
+489,a2aa536d-2834-40ac-8744-645a96ecd20f,Generate Transparent Metrics,Flash Sale,Students,"Martinez, Austin and Bowman",2023-05-17,2023-07-17,54.17,fixed,775.54,2023-05-17,2023-07-17,True,2023
+490,9c482e01-a3f4-4ca4-8112-b250f154fd73,Enhance Cutting-Edge Convergence,Seasonal,All,Smith-Freeman,2024-02-04,2024-03-22,10.09,fixed,1424.08,2024-02-04,2024-03-22,False,2024
+491,9eb57657-e74f-44f2-a27d-fda773933e92,Drive Intuitive Interfaces,Flash Sale,All,"Hill, Nichols and Williams",2025-04-13,2025-05-08,40.34,percentage,1590.82,2025-04-13,2025-05-08,True,2025
+492,bb4c44a2-f9fe-435e-8233-095547a9a186,Optimize Leading-Edge E-Markets,Anniversary,Families,"Potter, Reed and Jacobs",2024-05-26,2024-07-06,63.55,fixed,1298.97,2024-05-26,2024-07-06,True,2024
+493,2670c23e-ea0f-4236-91bf-355b60de2fe4,Productize Bricks-And-Clicks Paradigms,Seasonal,Students,Lopez PLC,2024-04-07,2024-06-20,69.47,percentage,1005.34,2024-04-07,2024-06-20,True,2024
+494,6be9cf99-9d18-415e-9548-86f56ea64459,Target Back-End Methodologies,Seasonal,Students,Hall-Soto,2023-12-12,2024-01-24,28.13,fixed,1159.51,2023-12-12,2024-01-24,True,2023
+495,a97130b7-2a1a-40bc-9e71-cd510f644f1d,Utilize Strategic Supply-Chains,Anniversary,Students,Ramos LLC,2023-07-18,2023-10-15,44.25,fixed,265.42,2023-07-18,2023-10-15,False,2023
+496,24d9b31c-7b65-4e0e-9b32-89ebc49a6d78,Target Real-Time Communities,Anniversary,Business,Conrad LLC,2024-11-27,2025-01-19,32.83,fixed,1763.31,2024-11-27,2025-01-19,True,2024
+497,1a90653f-1ffe-4f8c-86c1-a629a293b5db,Deploy 24/365 E-Business,Flash Sale,All,Davis PLC,2024-02-22,2024-05-15,31.06,fixed,1456.32,2024-02-22,2024-05-15,True,2024
+498,9a00d63c-6240-4c61-907f-95cd986f8d7e,Monetize Distributed Platforms,Loyalty,Families,"Ayala, Davis and Roberts",2025-02-10,2025-03-08,30.47,percentage,1164.59,2025-02-10,2025-03-08,True,2025
+499,c63c0222-857d-426d-901f-11a056c77c64,Transition Front-End Communities,Seasonal,Business,Lewis LLC,2024-10-01,2024-11-22,51.38,fixed,1538.4,2024-10-01,2024-11-22,False,2024
+500,4aa5ae78-f17f-46b2-9cca-042bc4f9ca90,E-Enable Enterprise Info-Mediaries,Anniversary,Students,Shepherd Ltd,2024-05-27,2024-06-23,64.98,fixed,550.37,2024-05-27,2024-06-23,False,2024

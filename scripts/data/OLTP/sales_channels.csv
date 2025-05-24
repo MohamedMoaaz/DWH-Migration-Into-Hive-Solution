@@ -1,0 +1,3 @@
+channel_id,channel_name,channel_type,category,commission_rate,is_active,created_at,updated_at
+1,Online Website,Website,ONLINE,7.04,True,2016-07-30,2022-08-22
+2,Airport Counter,Counter,OFFLINE,3.64,True,2014-02-28,2020-08-10

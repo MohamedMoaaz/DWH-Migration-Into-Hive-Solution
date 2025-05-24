@@ -1,0 +1,235 @@
+-- -- Step 1: Create sequence for passenger_key (run once)
+-- CREATE SEQUENCE IF NOT EXISTS passenger_key_seq START WITH 1 INCREMENT BY 1;
+
+-- -- Step 2: Create temporary staging table with current records
+-- CREATE TEMPORARY TABLE temp_passengers_staging AS
+-- SELECT 
+--     passenger_id,
+--     national_id,
+--     first_name,
+--     last_name,
+--     date_of_birth,
+--     nationality,
+--     email,
+--     phone_number,
+--     gender,
+--     status,
+--     frequent_flyer_tier,
+--     created_at,
+--     updated_at
+-- FROM passengers
+-- WHERE is_current = TRUE;
+
+-- -- Step 3: Expire outdated records in target
+-- UPDATE acid_passengers
+-- SET 
+--     is_current = FALSE,
+--     expiry_date = CURRENT_TIMESTAMP
+-- WHERE passenger_id IN (SELECT passenger_id FROM temp_passengers_staging)
+-- AND is_current = TRUE
+-- AND passenger_id NOT IN (
+--     SELECT p.passenger_id 
+--     FROM temp_passengers_staging p
+--     JOIN acid_passengers a ON p.passenger_id = a.passenger_id AND a.is_current = TRUE
+--     WHERE p.national_id = a.passenger_national_id
+--     AND p.first_name = a.passenger_firstname
+--     AND p.last_name = a.passenger_lastname
+--     AND p.date_of_birth = a.passenger_dob
+--     -- Compare all relevant attributes
+-- );
+
+-- -- Step 4: Insert new/changed records
+-- INSERT INTO TABLE acid_passengers
+-- PARTITION (frequent_flyer_tier)
+-- SELECT 
+--     NEXTVAL('passenger_key_seq') AS passenger_key,
+--     p.passenger_id,
+--     p.national_id AS passenger_national_id,
+--     p.first_name AS passenger_firstname,
+--     p.last_name AS passenger_lastname,
+--     p.date_of_birth AS passenger_dob,
+--     p.nationality AS passenger_nationality,
+--     p.email AS passenger_email,
+--     p.phone_number AS passenger_phoneno,
+--     p.gender AS passenger_gender,
+--     p.status AS passenger_status,
+--     CURRENT_TIMESTAMP AS effective_date,
+--     NULL AS expiry_date,
+--     TRUE AS is_current,
+--     COALESCE(
+--         (SELECT MAX(version_number) 
+--          FROM acid_passengers a 
+--          WHERE a.passenger_id = p.passenger_id), 0
+--     ) + 1 AS version_number,
+--     p.frequent_flyer_tier
+-- FROM temp_passengers_staging p
+-- LEFT JOIN acid_passengers a ON p.passenger_id = a.passenger_id AND a.is_current = TRUE
+-- WHERE a.passenger_id IS NULL OR (
+--     p.national_id <> a.passenger_national_id OR
+--     p.first_name <> a.passenger_firstname OR
+--     p.last_name <> a.passenger_lastname OR
+--     p.date_of_birth <> a.passenger_dob
+--     -- Include all fields that should trigger a new version
+-- );
+
+-- -- Step 1: Create sequence for promotion_key (run once)
+-- CREATE SEQUENCE IF NOT EXISTS promotion_key_seq START WITH 1 INCREMENT BY 1;
+
+-- -- Step 2: Create temporary staging table
+-- CREATE TEMPORARY TABLE temp_promotions_staging AS
+-- SELECT 
+--     promotion_id,
+--     promotion_name,
+--     promotion_type,
+--     target_segment,
+--     channel,
+--     start_date,
+--     end_date,
+--     discount_value,
+--     discount_type,
+--     max_discount_amount,
+--     created_at,
+--     updated_at
+-- FROM promotions
+-- WHERE is_current = TRUE;
+
+-- -- Step 3: Expire outdated records in target
+-- UPDATE acid_promotions
+-- SET 
+--     is_current = FALSE,
+--     expiry_date = CURRENT_TIMESTAMP
+-- WHERE promotion_id IN (SELECT promotion_id FROM temp_promotions_staging)
+-- AND is_current = TRUE
+-- AND promotion_id NOT IN (
+--     SELECT p.promotion_id 
+--     FROM temp_promotions_staging p
+--     JOIN acid_promotions a ON p.promotion_id = a.promotion_id AND a.is_current = TRUE
+--     WHERE p.promotion_name = a.promotion_name
+--     AND p.discount_value = a.discount_value
+--     AND p.discount_type = a.discount_type
+--     -- Compare all relevant attributes
+-- );
+
+-- -- Step 4: Insert new/changed records
+-- INSERT INTO TABLE acid_promotions
+-- PARTITION (promotion_type)
+-- SELECT 
+--     NEXTVAL('promotion_key_seq') AS promotion_key,
+--     p.promotion_id,
+--     p.promotion_name,
+--     p.target_segment AS promotion_target_segment,
+--     p.channel AS promotion_channel,
+--     p.start_date AS promotion_start_date,
+--     p.end_date AS promotion_end_date,
+--     p.discount_value,
+--     p.discount_type,
+--     p.max_discount_amount,
+--     CURRENT_TIMESTAMP AS effective_date,
+--     NULL AS expiry_date,
+--     TRUE AS is_current,
+--     COALESCE(
+--         (SELECT MAX(version_number) 
+--          FROM acid_promotions a 
+--          WHERE a.promotion_id = p.promotion_id), 0
+--     ) + 1 AS version_number,
+--     p.promotion_type
+-- FROM temp_promotions_staging p
+-- LEFT JOIN acid_promotions a ON p.promotion_id = a.promotion_id AND a.is_current = TRUE
+-- WHERE a.promotion_id IS NULL OR (
+--     p.promotion_name <> a.promotion_name OR
+--     p.discount_value <> a.discount_value OR
+--     p.discount_type <> a.discount_type OR
+--     p.max_discount_amount <> a.max_discount_amount
+--     -- Include all fields that should trigger a new version
+-- );
+
+-- -- Start fact table load
+-- INSERT INTO etl_audit VALUES (
+--     (SELECT COALESCE(MAX(batch_id), 0) + 1 FROM etl_audit), 
+--     'fact_flight_reservations_bigtable', 
+--     'INCREMENTAL', 
+--     NULL, 
+--     CURRENT_TIMESTAMP, 
+--     NULL, 
+--     'RUNNING', 
+--     NULL
+-- );
+
+-- -- Get last load timestamp
+-- SET hivevar:last_load = (
+--     SELECT COALESCE(MAX(end_time), TIMESTAMP '1970-01-01') 
+--     FROM etl_audit 
+--     WHERE table_name = 'fact_flight_reservations_bigtable' 
+--     AND status = 'COMPLETED'
+-- );
+
+-- -- Insert new records
+-- INSERT INTO TABLE fact_flight_reservations_bigtable
+-- PARTITION (reservation_year, reservation_month)
+-- SELECT 
+--     r.ticket_number AS ticket_id,
+--     DATE(r.booking_date) AS reservation_date,
+--     DATE(r.departure_date) AS departure_date,
+--     r.booking_class,
+--     r.seat_number,
+--     r.promotion_amount,
+--     r.tax_amount,
+--     r.operational_fees,
+--     r.cancellation_fees,
+--     r.fare_price,
+--     r.final_price,
+--     r.is_cancelled,
+--     r.cancellation_reason,
+--     p.passenger_id,
+--     CONCAT(p.first_name, ' ', p.last_name) AS passenger_name,
+--     p.date_of_birth AS passenger_dob,
+--     p.nationality AS passenger_nationality,
+--     p.gender AS passenger_gender,
+--     p.frequent_flyer_tier AS frequent_flyer_tier,
+--     f.departure_airport AS source_airport_code,
+--     dep.airport_name AS source_airport_name,
+--     dep.city AS source_city,
+--     dep.country AS source_country,
+--     dep.region AS source_region,
+--     f.arrival_airport AS destination_airport_code,
+--     arr.airport_name AS destination_airport_name,
+--     arr.city AS destination_city,
+--     arr.country AS destination_country,
+--     arr.region AS destination_region,
+--     fb.fare_basis_code,
+--     fb.fare_class,
+--     fb.is_refundable AS refundable,
+--     fb.baggage_allowance,
+--     pr.promotion_name,
+--     pr.promotion_type,
+--     pr.discount_value,
+--     pr.discount_type,
+--     sc.channel_name,
+--     sc.channel_type,
+--     sc.commission_rate,
+--     QUARTER(r.booking_date) AS reservation_quarter,
+--     YEAR(r.departure_date) AS departure_year,
+--     MONTH(r.departure_date) AS departure_month,
+--     QUARTER(r.departure_date) AS departure_quarter,
+--     CASE WHEN DAYOFWEEK(r.departure_date) IN (1, 7) THEN TRUE ELSE FALSE END AS is_weekend,
+--     YEAR(r.booking_date) AS reservation_year,
+--     MONTH(r.booking_date) AS reservation_month
+-- FROM reservations r
+-- JOIN passengers p ON r.passenger_id = p.passenger_id AND p.is_current = TRUE
+-- LEFT JOIN flights f ON r.flight_id = f.flight_id
+-- LEFT JOIN airports dep ON f.departure_airport = dep.airport_code
+-- LEFT JOIN airports arr ON f.arrival_airport = arr.airport_code
+-- LEFT JOIN fare_basis_codes fb ON r.fare_basis_id = fb.fare_basis_id
+-- LEFT JOIN promotions pr ON r.promotion_id = pr.promotion_id AND pr.is_current = TRUE
+-- LEFT JOIN sales_channels sc ON r.channel_id = sc.channel_id
+-- WHERE r.updated_at >= ${hivevar:last_load}
+-- OR r.created_at >= ${hivevar:last_load};
+
+-- -- Update audit table
+-- UPDATE etl_audit
+-- SET 
+--     end_time = CURRENT_TIMESTAMP,
+--     status = 'COMPLETED',
+--     records_processed = (SELECT COUNT(*) FROM etl_audit WHERE table_name = 'fact_flight_reservations_bigtable' AND status = 'RUNNING')
+-- WHERE table_name = 'fact_flight_reservations_bigtable' 
+-- AND status = 'RUNNING';

@@ -1,0 +1,201 @@
+airport_key,airport_id,airport_name,airport_code,airport_city,airport_country,airport_region,airport_timezone,airport_latitude,airport_longitude,airport_no_of_runways,airport_size_category
+1,APT100,Lake Kennethport Airport,KKV,East Markport,Japan,New Hampshire,UTC+2,-47.5950855,-172.796893,1,medium
+2,APT101,New Dustin Airport,WWD,Eduardoville,Iceland,Colorado,UTC+12,-33.822389,-14.383346,4,hub
+3,APT102,Theresaport Airport,HKQ,North Erica,Afghanistan,Idaho,UTC+11,64.8254215,149.613621,3,medium
+4,APT103,North Lorettaland Airport,LFU,West Jeremy,Sudan,Missouri,UTC+5,-66.608582,132.822049,6,medium
+5,APT104,North Saraside Airport,MHM,East Amy,Armenia,Vermont,UTC+4,-65.641933,-38.386624,1,small
+6,APT105,Carolside Airport,FAF,Hernandezside,Taiwan,Nevada,UTC+5,-4.159966,-76.370902,1,medium
+7,APT106,Jaredstad Airport,PAC,Normanborough,Guernsey,Oklahoma,UTC+0,53.0217315,117.101448,1,small
+8,APT107,Port Rebeccaview Airport,REI,Danielleburgh,Israel,Vermont,UTC+2,32.346085,60.275962,1,hub
+9,APT108,Olsenstad Airport,ELZ,South Michaelburgh,Gabon,Indiana,UTC+7,-68.182853,-84.300682,6,large
+10,APT109,Alyssamouth Airport,ONY,North Brendaview,Grenada,Alabama,UTC+1,-21.9656655,-47.363425,4,medium
+11,APT110,Williamsfurt Airport,PZY,Hernandeztown,Bangladesh,Nevada,UTC+3,63.9266065,154.051341,4,large
+12,APT111,Hendersonland Airport,HJJ,Lake Paulland,Singapore,Tennessee,UTC+10,-1.014187,-93.446369,4,large
+13,APT112,Taylorview Airport,PQM,West Rogertown,Greece,Arizona,UTC+4,-1.6635385,-10.131178,2,medium
+14,APT113,Donnaville Airport,FVF,Obrienberg,Liechtenstein,West Virginia,UTC+11,64.141718,-0.508062,6,medium
+15,APT114,Mikefort Airport,FDW,Buchananstad,Lao People's Democratic Republic,Pennsylvania,UTC+11,23.2908305,68.981818,5,hub
+16,APT115,East Allison Airport,GZX,South Kathleen,Timor-Leste,Tennessee,UTC+4,45.916892,-41.690416,3,small
+17,APT116,Williamville Airport,PTO,Romantown,Senegal,New Mexico,UTC+2,22.5399995,-13.684756,3,small
+18,APT117,Maldonadoborough Airport,IFP,Stewarthaven,Netherlands,Wisconsin,UTC+7,57.2235165,45.036670,5,medium
+19,APT118,Karlachester Airport,HEF,West Candace,Brunei Darussalam,Washington,UTC+4,81.811160,-48.539717,6,medium
+20,APT119,Jonesmouth Airport,YTI,Jacobmouth,Estonia,Nevada,UTC+10,11.9260545,82.400593,5,hub
+21,APT120,Hernandezville Airport,GGQ,Brownberg,Ghana,North Dakota,UTC+8,-48.5511405,149.611365,5,medium
+22,APT121,Simonshire Airport,VTB,Nicoletown,French Southern Territories,South Carolina,UTC+2,-38.5634385,177.603254,4,small
+23,APT122,New Shawnmouth Airport,NBU,Sandramouth,Liechtenstein,Oregon,UTC+4,-54.1809585,-86.225428,2,large
+24,APT123,Lake Michelle Airport,XLA,Lake Yolandaborough,Saint Pierre and Miquelon,Colorado,UTC+11,-6.319368,-52.298853,3,small
+25,APT124,South Cory Airport,ZMA,West Danielle,Suriname,California,UTC+2,85.689733,-28.126234,6,small
+26,APT125,North Elizabeth Airport,GEP,East Danielland,Madagascar,Connecticut,UTC+1,-78.9158195,-132.756725,6,medium
+27,APT126,Singhstad Airport,VKQ,Chelseafort,Spain,New York,UTC+8,39.541634,77.564026,3,small
+28,APT127,Harrisfurt Airport,BDQ,New Charles,Germany,South Carolina,UTC+1,-73.927625,168.121732,6,large
+29,APT128,New Brandonhaven Airport,BFZ,Port Gabrielborough,Tajikistan,New York,UTC+3,64.5334115,98.799573,4,large
+30,APT129,Martinstad Airport,VMB,Michaelfort,Estonia,South Carolina,UTC+8,89.455931,110.101869,2,small
+31,APT130,South Lindsaychester Airport,WGR,Josephbury,Libyan Arab Jamahiriya,Connecticut,UTC+12,-0.170888,103.124571,2,medium
+32,APT131,North Amanda Airport,RAU,Adamstown,Estonia,Georgia,UTC+1,-79.2492405,-173.353221,2,large
+33,APT132,Karenborough Airport,FFB,South Jeffery,Aruba,Pennsylvania,UTC+5,-9.8442885,-179.567082,6,medium
+34,APT133,Brownville Airport,SEH,Thomasberg,British Virgin Islands,New Hampshire,UTC+8,-66.8303005,-77.543630,4,hub
+35,APT134,Rogerschester Airport,NJT,Holtstad,Luxembourg,Arkansas,UTC+9,80.3267705,93.297404,3,medium
+36,APT135,New Jacob Airport,NDY,West Charles,Iran,Illinois,UTC+9,34.4192585,162.707949,6,large
+37,APT136,Port Jeffrey Airport,IJM,Lake Nicole,Chad,Ohio,UTC+12,60.322510,142.059597,5,hub
+38,APT137,South Barbarastad Airport,UXS,East Deniseberg,Kenya,New Hampshire,UTC+8,-64.5731355,-5.534803,3,small
+39,APT138,Port Daniel Airport,GEY,South Gerald,Angola,Alaska,UTC+10,56.653291,94.887376,6,large
+40,APT139,South Erin Airport,PYQ,Lake Katherineton,Sweden,Nebraska,UTC+10,50.7419335,60.142309,4,hub
+41,APT140,Goodwinhaven Airport,NIQ,West Darryl,Central African Republic,Illinois,UTC+0,-50.5585635,91.951555,3,medium
+42,APT141,North Nathaniel Airport,NZN,East James,Bahrain,New Jersey,UTC+8,50.701172,-147.698244,3,small
+43,APT142,West Michael Airport,HNW,West Robertaton,Portugal,Arizona,UTC+4,31.5143785,-25.273038,4,large
+44,APT143,Lake Miafort Airport,KKQ,Lake Daniel,Nigeria,Colorado,UTC+4,73.9180805,-85.888357,3,small
+45,APT144,East Joseph Airport,ECT,Andreaside,Botswana,Pennsylvania,UTC+5,2.1920745,-164.194263,5,medium
+46,APT145,Hessfort Airport,KRC,Strongland,Burkina Faso,Kentucky,UTC+10,9.773746,61.120208,6,hub
+47,APT146,New Tonyville Airport,UML,Christopherland,Dominican Republic,Nebraska,UTC+1,29.328571,75.909550,1,medium
+48,APT147,South Charlesside Airport,TTY,Wilsonhaven,Jersey,Pennsylvania,UTC+3,-51.385844,-36.797959,4,large
+49,APT148,Port Gina Airport,XRK,Davidland,Oman,New Hampshire,UTC+3,77.8098345,-171.319868,3,medium
+50,APT149,Michaelchester Airport,PRE,East Marissa,Sao Tome and Principe,New Mexico,UTC+5,-8.398614,103.200087,5,small
+51,APT150,Kellyview Airport,RMS,Lake Antonio,Liberia,Wyoming,UTC+11,-83.2817295,-155.515598,6,large
+52,APT151,Lake Charlesmouth Airport,AVR,Kaylashire,Andorra,Maryland,UTC+3,-78.119350,-64.383616,6,large
+53,APT152,East Joel Airport,NLZ,Sarahstad,Cuba,Mississippi,UTC+8,-79.836355,-59.784306,1,medium
+54,APT153,Kingville Airport,NXM,West Lucas,Jamaica,Kansas,UTC+0,-11.424072,-32.883983,5,small
+55,APT154,Johnsonburgh Airport,SSE,West Clintonborough,Australia,South Carolina,UTC+9,2.7675055,-115.679553,4,large
+56,APT155,North Rachelhaven Airport,BWN,South Jameston,United States Virgin Islands,New York,UTC+3,-62.404119,-60.155330,5,large
+57,APT156,Hoffmanmouth Airport,GWI,Frankport,Monaco,Texas,UTC+8,24.286845,161.414716,2,large
+58,APT157,Stanleyport Airport,ZLZ,West Cynthiaton,Saudi Arabia,New Mexico,UTC+3,-23.4953015,-102.549767,5,hub
+59,APT158,West David Airport,MNL,East Michael,Burundi,South Carolina,UTC+6,71.133903,-150.863564,3,large
+60,APT159,East Ashleyton Airport,VKI,New Kimberly,Eritrea,Wyoming,UTC+2,73.8219405,115.083198,6,large
+61,APT160,Lake Dylanton Airport,ZVV,Brittanyview,Haiti,Alaska,UTC+12,-4.5393335,-121.130378,6,medium
+62,APT161,Port Melvin Airport,BMD,Bushfurt,Czech Republic,South Carolina,UTC+10,14.473195,-149.281998,1,small
+63,APT162,Tinaview Airport,UNW,New Cristinaborough,Singapore,Maryland,UTC+7,-38.885718,-50.490316,4,hub
+64,APT163,Sullivanstad Airport,SMF,New Matthewshire,Chad,Massachusetts,UTC+4,41.2830275,113.440198,5,hub
+65,APT164,Jacobside Airport,EHT,Singhview,Brazil,Wyoming,UTC+1,33.707339,7.300881,2,small
+66,APT165,New John Airport,NTJ,Brownport,Saint Martin,Ohio,UTC+3,-41.5570995,-2.446367,2,hub
+67,APT166,Duncanview Airport,GOF,Harristown,Liberia,Wyoming,UTC+12,6.851282,99.094836,2,hub
+68,APT167,Connormouth Airport,HQO,West Brian,Svalbard & Jan Mayen Islands,Nebraska,UTC+1,48.541175,-13.935186,6,hub
+69,APT168,New Crystal Airport,JIF,Durhamberg,Syrian Arab Republic,Pennsylvania,UTC+12,-10.195181,59.937405,1,small
+70,APT169,Port Ellen Airport,YSC,South Brendanton,Zimbabwe,Rhode Island,UTC+11,-17.863167,31.056743,3,small
+71,APT170,West Derrickshire Airport,BMU,West Kevinside,Bhutan,South Dakota,UTC+3,-9.982600,-31.846374,4,hub
+72,APT171,Port Lindsey Airport,YNZ,Jaimeburgh,Samoa,New Mexico,UTC+10,-7.8242065,111.271744,2,medium
+73,APT172,Allenview Airport,NOT,New Stephanie,North Macedonia,Wisconsin,UTC+10,73.2790855,-44.660405,2,large
+74,APT173,Greenborough Airport,BPU,Port Timothy,Aruba,Washington,UTC+9,14.4682605,-34.388924,3,hub
+75,APT174,Phillipsside Airport,FBR,Jodiland,Somalia,Virginia,UTC+2,64.185669,-127.037823,1,small
+76,APT175,Lake Traceystad Airport,WVS,Markbury,Finland,New Hampshire,UTC+9,41.279292,-2.616097,2,medium
+77,APT176,Holmeston Airport,WWL,Barbaraview,Central African Republic,Massachusetts,UTC+5,-58.3212185,-62.983040,2,hub
+78,APT177,Mezahaven Airport,VTV,North Scottside,Iraq,Indiana,UTC+0,-81.2085405,119.594350,4,medium
+79,APT178,Port Amandaview Airport,NIS,West Williamhaven,Switzerland,Iowa,UTC+12,72.0745785,156.245683,4,large
+80,APT179,Ryanberg Airport,BJJ,Whitakershire,United States Minor Outlying Islands,Missouri,UTC+9,-56.212071,-37.743670,4,small
+81,APT180,Lake Stephentown Airport,NAO,Port Crystal,Tunisia,North Carolina,UTC+9,37.877912,-51.422864,2,hub
+82,APT181,Port Juliefort Airport,GFR,Johnsonborough,Vietnam,Michigan,UTC+8,-16.1612485,49.279696,4,medium
+83,APT182,Darrenborough Airport,ERL,North Johnmouth,Bolivia,Mississippi,UTC+12,27.0183795,-17.792452,2,hub
+84,APT183,Port Danielview Airport,LXZ,North George,Zimbabwe,Virginia,UTC+12,-37.885569,114.925083,1,hub
+85,APT184,West Brandifurt Airport,LIA,Lake Jenniferview,Portugal,New York,UTC+12,-54.1883145,-174.402141,1,hub
+86,APT185,Victoriachester Airport,BRW,Bennettside,Bhutan,Mississippi,UTC+11,36.7975255,0.668377,6,medium
+87,APT186,Port Amy Airport,IVT,East Belinda,Mali,Wyoming,UTC+4,-9.767545,131.526180,5,small
+88,APT187,Katieburgh Airport,YAN,East James,Poland,Washington,UTC+9,-21.553559,124.568628,1,large
+89,APT188,East Marcus Airport,CYI,Colleenhaven,Vanuatu,New Mexico,UTC+5,-61.9383865,148.580905,1,hub
+90,APT189,Davenportstad Airport,BBP,Mathisfort,Hong Kong,Maine,UTC+7,19.1804615,67.762360,6,hub
+91,APT190,Chrishaven Airport,ZPC,South Catherine,Latvia,Tennessee,UTC+0,-9.6517545,13.741017,1,large
+92,APT191,Fordside Airport,WUK,Hawkinsville,Norfolk Island,New Jersey,UTC+3,43.9530975,52.297388,4,hub
+93,APT192,Hooverland Airport,XUN,Mitchellport,Uganda,Michigan,UTC+9,-37.670899,125.952463,1,large
+94,APT193,Sonyaview Airport,YAL,Tommymouth,Spain,Mississippi,UTC+9,32.377453,65.583139,4,small
+95,APT194,New Christianville Airport,SON,Lake Colinberg,Bahrain,North Carolina,UTC+4,24.897403,59.694521,5,hub
+96,APT195,Ericafurt Airport,IPG,Macdonaldland,Sri Lanka,Kansas,UTC+3,71.448866,81.798810,3,small
+97,APT196,New Stevenbury Airport,RKR,South Gabrielle,Russian Federation,Delaware,UTC+6,-78.863725,-40.707781,5,large
+98,APT197,Matthewstown Airport,MAB,North Joann,Russian Federation,Wyoming,UTC+5,-57.4565035,32.435272,1,large
+99,APT198,New Kendraside Airport,VLN,Jacobfort,Saint Helena,Pennsylvania,UTC+8,55.0103795,59.817356,2,medium
+100,APT199,New Wanda Airport,MAA,East Ashley,Ireland,Rhode Island,UTC+3,-12.1565325,148.846193,1,large
+101,APT200,Cassandrachester Airport,EUC,New Tiffanyside,Micronesia,Louisiana,UTC+4,-67.9806285,-177.741117,3,small
+102,APT201,New Sarah Airport,CGQ,Jonesfort,Kenya,Montana,UTC+10,34.001385,17.790308,2,hub
+103,APT202,Josephborough Airport,TWM,Lake Emilystad,United States Virgin Islands,Mississippi,UTC+6,-52.8537585,-76.295091,3,small
+104,APT203,East Davidchester Airport,UNV,Codytown,Wallis and Futuna,South Dakota,UTC+6,-64.945422,172.462509,4,hub
+105,APT204,Davidland Airport,HDB,East Robert,Sudan,Iowa,UTC+7,36.463257,14.173012,6,small
+106,APT205,New Nicole Airport,SAZ,Amyberg,Heard Island and McDonald Islands,New Jersey,UTC+0,-63.1516465,-160.745531,2,large
+107,APT206,Jordanside Airport,UXQ,West Alexis,Solomon Islands,Kentucky,UTC+2,-57.4298745,123.699221,3,small
+108,APT207,Desireemouth Airport,CFF,East Alexandra,Bhutan,Florida,UTC+10,-63.4759045,22.837401,4,medium
+109,APT208,Tommyfort Airport,XKC,Aaronton,Andorra,Minnesota,UTC+8,-82.152187,-178.528214,3,large
+110,APT209,Lesliemouth Airport,CZS,Andersonfort,South Georgia and the South Sandwich Islands,Ohio,UTC+5,19.063288,-95.983383,6,small
+111,APT210,Lake Bradleyburgh Airport,MRE,Bowerschester,Botswana,Delaware,UTC+6,67.141747,138.343161,2,hub
+112,APT211,East Devin Airport,MQB,Port Davidland,Honduras,Alaska,UTC+3,7.3593745,-10.327936,6,small
+113,APT212,New Gabrielmouth Airport,LSB,Port Veronica,Oman,Vermont,UTC+1,4.6908815,71.982846,1,large
+114,APT213,Johnsonside Airport,BMM,Katherineview,Tunisia,Maine,UTC+8,72.7540605,45.350070,6,small
+115,APT214,New Feliciastad Airport,DSX,Lake Carolynport,Thailand,Indiana,UTC+11,4.3717245,4.455913,1,large
+116,APT215,Richardport Airport,MXP,East Janetchester,Lesotho,Nebraska,UTC+5,21.8385835,20.636912,2,hub
+117,APT216,South Frederickfurt Airport,CTC,West Georgeberg,Bosnia and Herzegovina,Massachusetts,UTC+6,-67.146363,66.428618,2,medium
+118,APT217,Deborahborough Airport,JAD,Port Timothyville,Cayman Islands,Alaska,UTC+6,-32.1821135,37.503114,4,hub
+119,APT218,New Taylormouth Airport,PUX,South Karen,Cook Islands,Alabama,UTC+6,-36.8749845,152.008799,1,medium
+120,APT219,Alisonton Airport,TUE,New Gloria,Equatorial Guinea,Iowa,UTC+8,-89.519053,-123.842397,2,medium
+121,APT220,South Lucasshire Airport,YZH,Williamston,Spain,Idaho,UTC+12,36.9239065,-113.717325,4,medium
+122,APT221,Gomezborough Airport,EFQ,Leahberg,Montserrat,Nebraska,UTC+7,23.8422285,-75.863677,5,small
+123,APT222,Garciabury Airport,UCJ,Westbury,Armenia,Montana,UTC+0,-12.274681,-13.062838,4,medium
+124,APT223,Port Joe Airport,XLV,Port Jessicaburgh,Cuba,Missouri,UTC+8,17.621478,-150.731554,6,medium
+125,APT224,Fullertown Airport,ZMH,Fernandezberg,Burkina Faso,Kentucky,UTC+9,-37.489935,75.341698,2,small
+126,APT225,Odomberg Airport,VGN,North Catherinebury,Swaziland,Pennsylvania,UTC+6,-41.437532,168.585233,6,small
+127,APT226,South Justinport Airport,VGL,Kevinberg,Egypt,Tennessee,UTC+0,-46.5111325,54.390051,4,medium
+128,APT227,Jacobburgh Airport,PAI,Ericaside,Uruguay,Alaska,UTC+5,-45.9412395,-28.674411,5,medium
+129,APT228,Lake David Airport,XHP,Gonzaleston,Monaco,South Dakota,UTC+3,-49.112978,-61.973690,6,medium
+130,APT229,Port Angelafurt Airport,MQM,Bobbyfurt,Nauru,New York,UTC+1,75.804513,11.740309,6,large
+131,APT230,South Lisaborough Airport,NNA,Port Alanville,Dominica,Iowa,UTC+1,-33.697679,-65.911897,6,small
+132,APT231,Duranstad Airport,YPV,Patriciaport,Belgium,California,UTC+7,-18.4686885,166.131976,1,medium
+133,APT232,Lake Mark Airport,KDT,New Michelleton,Grenada,New York,UTC+12,-21.039399,-142.502219,3,medium
+134,APT233,Annahaven Airport,GAJ,Jonesberg,Brazil,Nevada,UTC+5,-17.0457335,-106.053181,6,small
+135,APT234,Stonechester Airport,RXE,Port Jessica,Eritrea,Colorado,UTC+8,18.603521,-94.512164,2,small
+136,APT235,Lake Michele Airport,XDW,North Jennifer,Tajikistan,South Dakota,UTC+7,-18.568573,28.238692,5,large
+137,APT236,Davidmouth Airport,OHV,West Michael,Iceland,Iowa,UTC+3,39.8803935,-47.983305,4,small
+138,APT237,Port Oscar Airport,JYD,Washingtonton,Greece,Massachusetts,UTC+6,-25.300970,-61.214204,4,medium
+139,APT238,Edwardside Airport,BBA,Alyssafurt,Papua New Guinea,South Carolina,UTC+5,-31.353428,115.508496,3,small
+140,APT239,North Gerald Airport,YOO,West Susan,New Caledonia,South Carolina,UTC+1,17.758583,102.961584,4,medium
+141,APT240,Harrisfurt Airport,RYC,Brownbury,Turks and Caicos Islands,Iowa,UTC+8,-61.9158605,-84.944808,4,hub
+142,APT241,Clarkfurt Airport,FBW,North Patriciabury,Argentina,New York,UTC+8,56.0021085,148.217862,3,medium
+143,APT242,Fisherton Airport,JUF,West Dawnville,Samoa,Arizona,UTC+1,56.380117,-101.594869,4,hub
+144,APT243,Jenkinsbury Airport,KIV,South Meagan,Guam,Illinois,UTC+0,-31.031285,83.548522,3,medium
+145,APT244,Erinview Airport,OIX,North Joshuaport,Benin,Montana,UTC+12,80.4794955,157.660695,4,medium
+146,APT245,Lake Richard Airport,JMI,New Douglas,Barbados,Tennessee,UTC+0,74.836478,-65.909622,3,large
+147,APT246,South Deniseshire Airport,TMW,Morganmouth,Mozambique,Rhode Island,UTC+6,21.591909,141.814183,3,medium
+148,APT247,Bethport Airport,DJH,Potterview,Togo,Florida,UTC+9,-78.4294005,-15.093266,3,small
+149,APT248,Dennisland Airport,ANJ,East Jillian,Nauru,Hawaii,UTC+11,-72.2942075,7.247689,4,hub
+150,APT249,Emmahaven Airport,OXC,Shannonbury,Cote d'Ivoire,Alabama,UTC+0,-22.6222885,-74.775234,3,small
+151,APT250,East Deannatown Airport,ZAK,South Patrick,North Macedonia,Michigan,UTC+9,-72.816136,80.726071,2,large
+152,APT251,Port Andrea Airport,LSG,East Timothy,Cocos (Keeling) Islands,California,UTC+7,53.4999405,-169.575199,2,small
+153,APT252,Lancechester Airport,TCN,Port Todd,Peru,Wyoming,UTC+2,39.0472685,-84.287699,3,hub
+154,APT253,Lake Joshuamouth Airport,EBZ,West Reneefort,Serbia,Oklahoma,UTC+4,-55.0570075,-86.927637,5,small
+155,APT254,Nicholasshire Airport,HRL,Port Christopher,British Virgin Islands,Illinois,UTC+2,-46.836339,155.308728,2,small
+156,APT255,Port Jennifer Airport,ULN,Pricefurt,Portugal,Kentucky,UTC+2,-0.577563,-159.090316,1,hub
+157,APT256,Fowlershire Airport,PJE,Lake Luis,Kiribati,Kansas,UTC+4,-41.858775,1.276413,2,small
+158,APT257,East Nathan Airport,CRR,Maureenville,Libyan Arab Jamahiriya,Illinois,UTC+9,40.6458735,-80.868985,6,large
+159,APT258,South Steve Airport,CBV,Brewerburgh,Marshall Islands,Idaho,UTC+10,42.7087625,17.757447,6,small
+160,APT259,Johnland Airport,WWB,Port Michelle,Georgia,Idaho,UTC+9,-80.7795885,78.155218,6,small
+161,APT260,Singhstad Airport,HMF,Davidton,United States of America,Missouri,UTC+9,-39.2733225,32.735083,1,small
+162,APT261,Lisaport Airport,XVQ,Aprilborough,Portugal,Wisconsin,UTC+0,19.1351045,94.913451,5,large
+163,APT262,New Richardbury Airport,XTT,Matthewmouth,Timor-Leste,Georgia,UTC+6,65.750401,87.626820,4,medium
+164,APT263,East Brianastad Airport,AOS,Taylorchester,Dominica,Pennsylvania,UTC+2,-5.8338925,-14.223476,5,small
+165,APT264,Port Kevin Airport,GMF,New Timothystad,Norway,Mississippi,UTC+12,-67.6129845,17.327768,3,medium
+166,APT265,Darrellberg Airport,QFC,Raymondburgh,Ireland,Missouri,UTC+4,-37.7519055,88.158381,3,large
+167,APT266,North Nicolebury Airport,ACS,East Joel,Saint Kitts and Nevis,Massachusetts,UTC+5,-28.0958985,-41.960920,4,medium
+168,APT267,Port Jason Airport,IET,Smithport,Micronesia,Idaho,UTC+10,-65.2421655,-74.418441,5,small
+169,APT268,New Coryville Airport,MVB,Jonton,Turkey,Missouri,UTC+10,-53.2801155,-88.267985,2,hub
+170,APT269,Theresaton Airport,MWO,Davidview,British Virgin Islands,California,UTC+4,22.827926,53.730654,6,hub
+171,APT270,Evansfurt Airport,ESJ,Michaelside,Switzerland,Ohio,UTC+10,-53.492144,17.544195,2,medium
+172,APT271,Castilloside Airport,BZP,Juliaton,Cuba,South Dakota,UTC+0,-73.5461775,125.237445,3,large
+173,APT272,Nelsonfurt Airport,HFV,Carlsonland,Puerto Rico,West Virginia,UTC+0,4.7154965,-141.399703,4,large
+174,APT273,West Justin Airport,QWR,New Erika,Saint Barthelemy,South Dakota,UTC+11,37.883965,38.091907,2,medium
+175,APT274,South Dana Airport,QNL,Larryshire,Guinea-Bissau,Virginia,UTC+3,-27.5322915,-11.696426,1,hub
+176,APT275,Port Tamarastad Airport,AGV,Lake William,Holy See (Vatican City State),Wyoming,UTC+3,16.7322805,32.166410,4,large
+177,APT276,Jesseport Airport,KQI,Lake Brian,Faroe Islands,Indiana,UTC+7,69.9107695,166.473913,4,hub
+178,APT277,New Charlesberg Airport,QOT,Pageland,Sudan,Idaho,UTC+1,81.9940755,-168.007768,2,hub
+179,APT278,South Christopher Airport,DAT,Port Danielmouth,Australia,South Dakota,UTC+9,17.807100,-157.669368,3,small
+180,APT279,Fitzpatrickfurt Airport,COW,East Markview,Seychelles,Vermont,UTC+3,15.3677035,110.785067,4,medium
+181,APT280,Shawnchester Airport,JHN,Port Debbieland,Morocco,Minnesota,UTC+0,-31.9172365,-176.007309,5,small
+182,APT281,Melissaport Airport,ADX,Stevensonmouth,Heard Island and McDonald Islands,Idaho,UTC+3,-14.3087095,74.460931,4,small
+183,APT282,West Dave Airport,URR,Lake Heather,Korea,Ohio,UTC+4,-6.445667,-16.316987,6,medium
+184,APT283,Greermouth Airport,IKC,Port Susanland,United States of America,Louisiana,UTC+3,51.771797,113.009624,1,small
+185,APT284,Lake Maureen Airport,VCH,Michaelport,Gambia,Texas,UTC+5,-86.612016,-142.945965,2,medium
+186,APT285,Kellymouth Airport,UGP,Navarroside,Turks and Caicos Islands,New Hampshire,UTC+11,-85.791658,2.445708,2,small
+187,APT286,Hooperton Airport,ILX,Morganton,Ireland,Wisconsin,UTC+4,71.7712405,6.355886,4,hub
+188,APT287,North Jordanburgh Airport,SLB,New Tina,United States Virgin Islands,New Jersey,UTC+12,24.098137,-82.282392,6,large
+189,APT288,West Pamela Airport,VBP,Anthonyville,Sierra Leone,Michigan,UTC+9,29.7776675,172.291528,5,hub
+190,APT289,Teresaton Airport,UXT,South Alexandrahaven,Saint Lucia,Montana,UTC+3,-36.5624905,63.716152,4,hub
+191,APT290,Floresport Airport,TRQ,Justinport,Equatorial Guinea,Idaho,UTC+9,-33.4096955,-176.925527,4,medium
+192,APT291,Robertstad Airport,UDD,Matthewstad,Afghanistan,North Dakota,UTC+9,41.191451,-77.148543,2,small
+193,APT292,East William Airport,XRI,Kaylabury,Timor-Leste,Alabama,UTC+12,-5.0831255,-68.466120,1,hub
+194,APT293,Lake Christophermouth Airport,GXS,South Michael,Martinique,Colorado,UTC+2,7.522785,176.041873,3,medium
+195,APT294,Fowlerburgh Airport,CVL,Lake Chris,Argentina,Utah,UTC+2,-34.693364,59.356718,4,small
+196,APT295,East Davidburgh Airport,BQH,Hunterville,Martinique,Nevada,UTC+6,-13.4746255,-132.133596,3,small
+197,APT296,Port Erik Airport,IUG,Tatemouth,Guam,Massachusetts,UTC+1,-18.849193,-55.995728,1,large
+198,APT297,Laurenborough Airport,ACU,Carrilloberg,Guinea,Alaska,UTC+8,-72.248752,166.217119,1,hub
+199,APT298,Robertburgh Airport,YIZ,South Roger,Congo,Connecticut,UTC+3,80.3045275,37.235818,2,hub
+200,APT299,Wheelershire Airport,EWI,Lucaston,Nauru,Florida,UTC+5,34.245302,-54.015918,4,small

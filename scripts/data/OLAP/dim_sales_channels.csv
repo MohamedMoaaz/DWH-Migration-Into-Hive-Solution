@@ -1,0 +1,51 @@
+channel_key,channel_name,channel_type,channel_category,commission_rate,is_active
+1,Roberts-Meza,Agency,online,7.36,True
+2,Pruitt and Sons,Agency,online,12.28,False
+3,"Christian, Smith and Coffey",Call Center,offline,7.68,False
+4,Lopez PLC,Call Center,online,9.77,True
+5,Long Inc,Website,offline,12.58,False
+6,Ayers and Sons,Mobile App,online,9.94,False
+7,Conrad LLC,Agency,offline,14.47,True
+8,"Hill, Nichols and Williams",Agency,online,5.13,True
+9,Allen Group,Agency,online,14.23,True
+10,Church-Long,Agency,offline,14.19,False
+11,"Ayala, Davis and Roberts",Website,online,14.17,True
+12,"Barrera, White and Miller",Website,online,7.91,False
+13,Beck and Sons,Agency,online,4.98,False
+14,"Stevens, Bishop and Rose",Website,online,8.23,False
+15,Mckay-Dixon,Mobile App,online,12.75,False
+16,Henderson and Sons,Agency,offline,13.78,True
+17,Mason and Sons,Mobile App,online,3.8,True
+18,Walker Group,Agency,offline,14.14,True
+19,Harvey-Hamilton,Call Center,online,11.53,False
+20,"Casey, Bailey and Martinez",Mobile App,online,14.08,True
+21,"Rice, Gay and Cruz",Call Center,online,6.05,True
+22,Smith-Freeman,Call Center,online,14.67,True
+23,"Taylor, Martin and Dickerson",Agency,offline,4.6,False
+24,"Martinez, Austin and Bowman",Mobile App,offline,5.1,False
+25,Fernandez LLC,Call Center,online,0.44,True
+26,Russell Group,Website,online,2.28,True
+27,Dalton Group,Agency,online,12.43,False
+28,Gray Inc,Call Center,offline,13.69,False
+29,Bush Group,Call Center,offline,5.42,True
+30,Shaw-Thornton,Website,online,11.84,False
+31,Kelley and Sons,Call Center,offline,11.2,True
+32,"Potter, Reed and Jacobs",Website,online,6.38,True
+33,"Cohen, Lester and Greene",Mobile App,online,0.43,False
+34,"Davis, Larson and Clark",Call Center,offline,5.33,False
+35,Davis PLC,Website,offline,5.6,True
+36,Harris-Rodriguez,Call Center,online,11.84,False
+37,Chan-Ponce,Agency,offline,11.12,True
+38,Shepherd Ltd,Agency,offline,13.46,False
+39,"Ward, Wright and Myers",Call Center,offline,6.11,True
+40,Carrillo-Dixon,Mobile App,offline,5.75,False
+41,Hall-Soto,Agency,offline,14.53,True
+42,Hamilton-Todd,Agency,online,14.0,True
+43,Johnson-Choi,Call Center,online,10.07,True
+44,"Freeman, Myers and Thompson",Agency,offline,4.67,False
+45,Martin-Park,Website,online,7.47,False
+46,Ramos LLC,Mobile App,online,0.82,True
+47,Brown-Bowen,Agency,online,12.1,True
+48,Arellano-Davis,Call Center,offline,0.76,False
+49,Lewis LLC,Mobile App,offline,8.91,True
+50,"Jackson, Smith and Morgan",Website,online,5.86,True
